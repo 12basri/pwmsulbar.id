@@ -1,0 +1,11 @@
+__ci_last_regenerate|i:1786263209;_ci_previous_url|s:69:"http://localhost/pw-muhammadiyah/public/index.php/admin/dokumen-arsip";_ci_old_input|a:2:{s:3:"get";a:0:{}s:4:"post";a:8:{s:14:"csrf_test_name";s:32:"1ba7a1461c0cff679d4f6d151e96788b";s:2:"id";s:0:"";s:13:"judul_dokumen";s:5:"dsdsd";s:13:"nomor_dokumen";s:3:"ssa";s:8:"kategori";s:14:"SK & Peraturan";s:15:"tanggal_dokumen";s:10:"2026-08-09";s:5:"akses";s:6:"Publik";s:10:"keterangan";s:9:"sassasasa";}}__ci_vars|a:3:{s:13:"_ci_old_input";s:3:"old";s:21:"_ci_validation_errors";s:3:"old";s:5:"error";s:3:"old";}_ci_validation_errors|a:3:{s:5:"judul";s:28:"The judul field is required.";s:14:"tanggal_upload";s:37:"The tanggal_upload field is required.";s:9:"nama_file";s:35:"Pilih file dokumen terlebih dahulu.";}error|s:339:"<!-- DEBUG-VIEW START 1 SYSTEMPATH\Validation\Views\list.php -->
+	<div class="errors" role="alert">
+		<ul>
+					<li>The judul field is required.</li>
+					<li>The tanggal_upload field is required.</li>
+					<li>Pilih file dokumen terlebih dahulu.</li>
+				</ul>
+	</div>
+
+<!-- DEBUG-VIEW ENDED 1 SYSTEMPATH\Validation\Views\list.php -->
+";

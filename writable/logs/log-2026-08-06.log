@@ -1,0 +1,2353 @@
+CRITICAL - 2026-08-06 07:41:00 --> ErrorException: Undefined array key "judul"
+[Method: GET, Route: /]
+in APPPATH\Views\pages\beranda.php on line 30.
+ 1 APPPATH\Views\pages\beranda.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "judul"', 'C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\beranda.php', 30)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\beranda.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('pages/beranda', [], true)
+ 5 APPPATH\Controllers\Home.php(61): view('pages/beranda', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-06 07:41:17 --> ErrorException: Undefined array key "judul"
+[Method: GET, Route: /]
+in APPPATH\Views\pages\beranda.php on line 30.
+ 1 APPPATH\Views\pages\beranda.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "judul"', 'C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\beranda.php', 30)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\beranda.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('pages/beranda', [], true)
+ 5 APPPATH\Controllers\Home.php(61): view('pages/beranda', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-06 07:41:22 --> ErrorException: Undefined array key "judul"
+[Method: GET, Route: /]
+in APPPATH\Views\pages\beranda.php on line 30.
+ 1 APPPATH\Views\pages\beranda.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "judul"', 'C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\beranda.php', 30)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\beranda.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('pages/beranda', [], true)
+ 5 APPPATH\Controllers\Home.php(61): view('pages/beranda', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-06 07:41:33 --> ErrorException: Undefined array key "judul"
+[Method: GET, Route: /]
+in APPPATH\Views\pages\beranda.php on line 30.
+ 1 APPPATH\Views\pages\beranda.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "judul"', 'C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\beranda.php', 30)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\beranda.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('pages/beranda', [], true)
+ 5 APPPATH\Controllers\Home.php(61): view('pages/beranda', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-06 07:41:42 --> ErrorException: Undefined array key "judul"
+[Method: GET, Route: /]
+in APPPATH\Views\pages\beranda.php on line 30.
+ 1 APPPATH\Views\pages\beranda.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "judul"', 'C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\beranda.php', 30)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\beranda.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('pages/beranda', [], true)
+ 5 APPPATH\Controllers\Home.php(61): view('pages/beranda', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-06 07:41:43 --> ErrorException: Undefined array key "judul"
+[Method: GET, Route: /]
+in APPPATH\Views\pages\beranda.php on line 30.
+ 1 APPPATH\Views\pages\beranda.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "judul"', 'C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\beranda.php', 30)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\beranda.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('pages/beranda', [], true)
+ 5 APPPATH\Controllers\Home.php(61): view('pages/beranda', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-06 07:41:51 --> ErrorException: Undefined array key "judul"
+[Method: GET, Route: /]
+in APPPATH\Views\pages\beranda.php on line 30.
+ 1 APPPATH\Views\pages\beranda.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "judul"', 'C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\beranda.php', 30)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\beranda.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('pages/beranda', [], true)
+ 5 APPPATH\Controllers\Home.php(61): view('pages/beranda', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-06 07:44:33 --> ErrorException: Undefined array key "judul"
+[Method: GET, Route: /]
+in APPPATH\Views\pages\beranda.php on line 30.
+ 1 APPPATH\Views\pages\beranda.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "judul"', 'C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\beranda.php', 30)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\beranda.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('pages/beranda', [], true)
+ 5 APPPATH\Controllers\Home.php(61): view('pages/beranda', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-06 07:44:51 --> ErrorException: Undefined array key "judul"
+[Method: GET, Route: /]
+in APPPATH\Views\pages\beranda.php on line 30.
+ 1 APPPATH\Views\pages\beranda.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "judul"', 'C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\beranda.php', 30)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\beranda.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('pages/beranda', [], true)
+ 5 APPPATH\Controllers\Home.php(61): view('pages/beranda', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-06 08:06:11 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pages/refleksi.php"
+[Method: GET, Route: refleksi]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/refleksi.php')
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('pages/refleksi', [], true)
+ 3 APPPATH\Controllers\Home.php(138): view('pages/refleksi', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->refleksi()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-06 08:06:16 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pages/refleksi.php"
+[Method: GET, Route: refleksi]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/refleksi.php')
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('pages/refleksi', [], true)
+ 3 APPPATH\Controllers\Home.php(138): view('pages/refleksi', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->refleksi()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2026-08-06 08:16:39 --> Table 'db_pwmuhammadiyah.sekolah' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 300.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(300): mysqli->query('SELECT COUNT(*) AS `numrows`
+FROM `sekolah`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*) AS `numrows`
+FROM `sekolah`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*) AS `numrows`
+FROM `sekolah`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1739): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM `sekolah`', [], false)
+ 5 SYSTEMPATH\Model.php(525): CodeIgniter\Database\BaseBuilder->countAllResults(true)
+ 6 APPPATH\Controllers\Home.php(42): CodeIgniter\Model->countAllResults()
+ 7 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-06 08:16:39 --> CodeIgniter\Database\Exceptions\DatabaseException: Table 'db_pwmuhammadiyah.sekolah' doesn't exist
+[Method: GET, Route: /]
+in SYSTEMPATH\Database\BaseConnection.php on line 863.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1739): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM `sekolah`', [], false)
+ 2 SYSTEMPATH\Model.php(525): CodeIgniter\Database\BaseBuilder->countAllResults(true)
+ 3 APPPATH\Controllers\Home.php(42): CodeIgniter\Model->countAllResults()
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-06 08:16:39 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Table 'db_pwmuhammadiyah.sekolah' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 310.
+ 1 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*) AS `numrows`
+FROM `sekolah`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*) AS `numrows`
+FROM `sekolah`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1739): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM `sekolah`', [], false)
+ 4 SYSTEMPATH\Model.php(525): CodeIgniter\Database\BaseBuilder->countAllResults(true)
+ 5 APPPATH\Controllers\Home.php(42): CodeIgniter\Model->countAllResults()
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-06 08:16:39 --> [Caused by] mysqli_sql_exception: Table 'db_pwmuhammadiyah.sekolah' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 300.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(300): mysqli->query('SELECT COUNT(*) AS `numrows`
+FROM `sekolah`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*) AS `numrows`
+FROM `sekolah`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*) AS `numrows`
+FROM `sekolah`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1739): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM `sekolah`', [], false)
+ 5 SYSTEMPATH\Model.php(525): CodeIgniter\Database\BaseBuilder->countAllResults(true)
+ 6 APPPATH\Controllers\Home.php(42): CodeIgniter\Model->countAllResults()
+ 7 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2026-08-06 08:17:54 --> Table 'db_pwmuhammadiyah.sekolah' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 300.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(300): mysqli->query('SELECT COUNT(*) AS `numrows`
+FROM `sekolah`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*) AS `numrows`
+FROM `sekolah`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*) AS `numrows`
+FROM `sekolah`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1739): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM `sekolah`', [], false)
+ 5 SYSTEMPATH\Model.php(525): CodeIgniter\Database\BaseBuilder->countAllResults(true)
+ 6 APPPATH\Controllers\Home.php(42): CodeIgniter\Model->countAllResults()
+ 7 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-06 08:17:54 --> CodeIgniter\Database\Exceptions\DatabaseException: Table 'db_pwmuhammadiyah.sekolah' doesn't exist
+[Method: GET, Route: /]
+in SYSTEMPATH\Database\BaseConnection.php on line 863.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1739): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM `sekolah`', [], false)
+ 2 SYSTEMPATH\Model.php(525): CodeIgniter\Database\BaseBuilder->countAllResults(true)
+ 3 APPPATH\Controllers\Home.php(42): CodeIgniter\Model->countAllResults()
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-06 08:17:54 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Table 'db_pwmuhammadiyah.sekolah' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 310.
+ 1 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*) AS `numrows`
+FROM `sekolah`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*) AS `numrows`
+FROM `sekolah`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1739): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM `sekolah`', [], false)
+ 4 SYSTEMPATH\Model.php(525): CodeIgniter\Database\BaseBuilder->countAllResults(true)
+ 5 APPPATH\Controllers\Home.php(42): CodeIgniter\Model->countAllResults()
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-06 08:17:54 --> [Caused by] mysqli_sql_exception: Table 'db_pwmuhammadiyah.sekolah' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 300.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(300): mysqli->query('SELECT COUNT(*) AS `numrows`
+FROM `sekolah`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*) AS `numrows`
+FROM `sekolah`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*) AS `numrows`
+FROM `sekolah`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1739): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM `sekolah`', [], false)
+ 5 SYSTEMPATH\Model.php(525): CodeIgniter\Database\BaseBuilder->countAllResults(true)
+ 6 APPPATH\Controllers\Home.php(42): CodeIgniter\Model->countAllResults()
+ 7 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-06 11:40:17 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "layouts/admin.php"
+[Method: GET, Route: admin/sekolah]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/admin.php')
+ 2 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('layouts/admin', [], true)
+ 3 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('admin/sekolah/index', [], true)
+ 4 APPPATH\Controllers\Admin\Sekolah.php(51): view('admin/sekolah/index', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Admin\Sekolah->index()
+ 6 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Sekolah))
+ 7 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-08-06 11:40:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2026-08-06 11:40:40 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "layouts/admin.php"
+[Method: GET, Route: admin/sekolah]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/admin.php')
+ 2 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('layouts/admin', [], true)
+ 3 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('admin/sekolah/index', [], true)
+ 4 APPPATH\Controllers\Admin\Sekolah.php(51): view('admin/sekolah/index', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Admin\Sekolah->index()
+ 6 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Sekolah))
+ 7 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-08-06 11:42:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-06 11:42:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-06 11:44:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-06 11:44:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2026-08-06 11:44:46 --> ErrorException: Undefined array key "kategori"
+[Method: GET, Route: admin/profil/aum]
+in APPPATH\Views\admin\aum\index.php on line 109.
+ 1 APPPATH\Views\admin\aum\index.php(109): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "kategori"', 'C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\admin\\aum\\index.php', 109)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\admin\\aum\\index.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('admin/aum/index', [], true)
+ 5 APPPATH\Controllers\Admin\Aum.php(48): view('admin/aum/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Admin\Aum->index()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Aum))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-08-06 11:44:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2026-08-06 11:44:50 --> ErrorException: Undefined array key "kategori"
+[Method: GET, Route: admin/profil/aum]
+in APPPATH\Views\admin\aum\index.php on line 109.
+ 1 APPPATH\Views\admin\aum\index.php(109): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "kategori"', 'C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\admin\\aum\\index.php', 109)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\admin\\aum\\index.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('admin/aum/index', [], true)
+ 5 APPPATH\Controllers\Admin\Aum.php(48): view('admin/aum/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Admin\Aum->index()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Aum))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-08-06 11:46:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2026-08-06 11:46:17 --> ErrorException: Undefined array key "kategori"
+[Method: GET, Route: admin/profil/aum]
+in APPPATH\Views\admin\aum\index.php on line 109.
+ 1 APPPATH\Views\admin\aum\index.php(109): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "kategori"', 'C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\admin\\aum\\index.php', 109)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\admin\\aum\\index.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('admin/aum/index', [], true)
+ 5 APPPATH\Controllers\Admin\Aum.php(41): view('admin/aum/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Admin\Aum->index()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Aum))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-08-06 11:47:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2026-08-06 11:47:40 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "layouts/admin.php"
+[Method: GET, Route: admin/profil/aum]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/admin.php')
+ 2 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('layouts/admin', [], true)
+ 3 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('admin/aum/index', [], true)
+ 4 APPPATH\Controllers\Admin\Aum.php(41): view('admin/aum/index', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Admin\Aum->index()
+ 6 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Aum))
+ 7 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-08-06 11:48:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-06 11:53:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-06 11:53:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-06 11:53:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-06 11:53:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-06 11:53:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-06 11:53:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-06 11:53:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-06 11:53:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-06 11:53:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-06 11:54:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-06 11:54:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-06 12:06:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-08-06 12:10:36 --> Unknown column 'kabupaten' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 300.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(300): mysqli->query('SELECT COUNT(*) AS `numrows`
+FROM (
+SELECT DISTINCT `kabupaten`
+FROM `sekolah`
+) CI_count_all_results', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*) AS `numrows`
+FROM (
+SELECT DISTINCT `kabupaten`
+FROM `sekolah`
+) CI_count_all_results')
+ 3 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*) AS `numrows`
+FROM (
+SELECT DISTINCT `kabupaten`
+FROM `sekolah`
+) CI_count_all_results')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1739): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM (
+SELECT DISTINCT `kabupaten`
+FROM `sekolah`
+) CI_count_all_results', [], false)
+ 5 SYSTEMPATH\Model.php(525): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+ 6 APPPATH\Controllers\Home.php(239): CodeIgniter\Model->countAllResults(false)
+ 7 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->sekolah()
+ 8 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-06 12:10:36 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'kabupaten' in 'field list'
+[Method: GET, Route: aum/sekolah]
+in SYSTEMPATH\Database\BaseConnection.php on line 863.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1739): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM (
+SELECT DISTINCT `kabupaten`
+FROM `sekolah`
+) CI_count_all_results', [], false)
+ 2 SYSTEMPATH\Model.php(525): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+ 3 APPPATH\Controllers\Home.php(239): CodeIgniter\Model->countAllResults(false)
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->sekolah()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-06 12:10:36 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'kabupaten' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 310.
+ 1 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*) AS `numrows`
+FROM (
+SELECT DISTINCT `kabupaten`
+FROM `sekolah`
+) CI_count_all_results')
+ 2 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*) AS `numrows`
+FROM (
+SELECT DISTINCT `kabupaten`
+FROM `sekolah`
+) CI_count_all_results')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1739): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM (
+SELECT DISTINCT `kabupaten`
+FROM `sekolah`
+) CI_count_all_results', [], false)
+ 4 SYSTEMPATH\Model.php(525): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+ 5 APPPATH\Controllers\Home.php(239): CodeIgniter\Model->countAllResults(false)
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->sekolah()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-06 12:10:36 --> [Caused by] mysqli_sql_exception: Unknown column 'kabupaten' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 300.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(300): mysqli->query('SELECT COUNT(*) AS `numrows`
+FROM (
+SELECT DISTINCT `kabupaten`
+FROM `sekolah`
+) CI_count_all_results', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*) AS `numrows`
+FROM (
+SELECT DISTINCT `kabupaten`
+FROM `sekolah`
+) CI_count_all_results')
+ 3 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*) AS `numrows`
+FROM (
+SELECT DISTINCT `kabupaten`
+FROM `sekolah`
+) CI_count_all_results')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1739): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM (
+SELECT DISTINCT `kabupaten`
+FROM `sekolah`
+) CI_count_all_results', [], false)
+ 5 SYSTEMPATH\Model.php(525): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+ 6 APPPATH\Controllers\Home.php(239): CodeIgniter\Model->countAllResults(false)
+ 7 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->sekolah()
+ 8 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-08-06 12:10:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-06 12:11:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-08-06 12:11:40 --> Unknown column 'kabupaten' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 300.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(300): mysqli->query('SELECT COUNT(*) AS `numrows`
+FROM (
+SELECT DISTINCT `kabupaten`
+FROM `sekolah`
+) CI_count_all_results', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*) AS `numrows`
+FROM (
+SELECT DISTINCT `kabupaten`
+FROM `sekolah`
+) CI_count_all_results')
+ 3 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*) AS `numrows`
+FROM (
+SELECT DISTINCT `kabupaten`
+FROM `sekolah`
+) CI_count_all_results')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1739): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM (
+SELECT DISTINCT `kabupaten`
+FROM `sekolah`
+) CI_count_all_results', [], false)
+ 5 SYSTEMPATH\Model.php(525): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+ 6 APPPATH\Controllers\Home.php(239): CodeIgniter\Model->countAllResults(false)
+ 7 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->sekolah()
+ 8 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-06 12:11:40 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'kabupaten' in 'field list'
+[Method: GET, Route: aum/sekolah]
+in SYSTEMPATH\Database\BaseConnection.php on line 863.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1739): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM (
+SELECT DISTINCT `kabupaten`
+FROM `sekolah`
+) CI_count_all_results', [], false)
+ 2 SYSTEMPATH\Model.php(525): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+ 3 APPPATH\Controllers\Home.php(239): CodeIgniter\Model->countAllResults(false)
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->sekolah()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-06 12:11:40 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'kabupaten' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 310.
+ 1 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*) AS `numrows`
+FROM (
+SELECT DISTINCT `kabupaten`
+FROM `sekolah`
+) CI_count_all_results')
+ 2 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*) AS `numrows`
+FROM (
+SELECT DISTINCT `kabupaten`
+FROM `sekolah`
+) CI_count_all_results')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1739): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM (
+SELECT DISTINCT `kabupaten`
+FROM `sekolah`
+) CI_count_all_results', [], false)
+ 4 SYSTEMPATH\Model.php(525): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+ 5 APPPATH\Controllers\Home.php(239): CodeIgniter\Model->countAllResults(false)
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->sekolah()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-06 12:11:40 --> [Caused by] mysqli_sql_exception: Unknown column 'kabupaten' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 300.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(300): mysqli->query('SELECT COUNT(*) AS `numrows`
+FROM (
+SELECT DISTINCT `kabupaten`
+FROM `sekolah`
+) CI_count_all_results', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*) AS `numrows`
+FROM (
+SELECT DISTINCT `kabupaten`
+FROM `sekolah`
+) CI_count_all_results')
+ 3 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*) AS `numrows`
+FROM (
+SELECT DISTINCT `kabupaten`
+FROM `sekolah`
+) CI_count_all_results')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1739): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM (
+SELECT DISTINCT `kabupaten`
+FROM `sekolah`
+) CI_count_all_results', [], false)
+ 5 SYSTEMPATH\Model.php(525): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+ 6 APPPATH\Controllers\Home.php(239): CodeIgniter\Model->countAllResults(false)
+ 7 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->sekolah()
+ 8 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2026-08-06 12:11:42 --> Unknown column 'kabupaten' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 300.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(300): mysqli->query('SELECT COUNT(*) AS `numrows`
+FROM (
+SELECT DISTINCT `kabupaten`
+FROM `sekolah`
+) CI_count_all_results', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*) AS `numrows`
+FROM (
+SELECT DISTINCT `kabupaten`
+FROM `sekolah`
+) CI_count_all_results')
+ 3 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*) AS `numrows`
+FROM (
+SELECT DISTINCT `kabupaten`
+FROM `sekolah`
+) CI_count_all_results')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1739): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM (
+SELECT DISTINCT `kabupaten`
+FROM `sekolah`
+) CI_count_all_results', [], false)
+ 5 SYSTEMPATH\Model.php(525): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+ 6 APPPATH\Controllers\Home.php(239): CodeIgniter\Model->countAllResults(false)
+ 7 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->sekolah()
+ 8 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-06 12:11:42 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'kabupaten' in 'field list'
+[Method: GET, Route: aum/sekolah]
+in SYSTEMPATH\Database\BaseConnection.php on line 863.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1739): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM (
+SELECT DISTINCT `kabupaten`
+FROM `sekolah`
+) CI_count_all_results', [], false)
+ 2 SYSTEMPATH\Model.php(525): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+ 3 APPPATH\Controllers\Home.php(239): CodeIgniter\Model->countAllResults(false)
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->sekolah()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-06 12:11:42 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'kabupaten' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 310.
+ 1 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*) AS `numrows`
+FROM (
+SELECT DISTINCT `kabupaten`
+FROM `sekolah`
+) CI_count_all_results')
+ 2 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*) AS `numrows`
+FROM (
+SELECT DISTINCT `kabupaten`
+FROM `sekolah`
+) CI_count_all_results')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1739): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM (
+SELECT DISTINCT `kabupaten`
+FROM `sekolah`
+) CI_count_all_results', [], false)
+ 4 SYSTEMPATH\Model.php(525): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+ 5 APPPATH\Controllers\Home.php(239): CodeIgniter\Model->countAllResults(false)
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->sekolah()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-06 12:11:42 --> [Caused by] mysqli_sql_exception: Unknown column 'kabupaten' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 300.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(300): mysqli->query('SELECT COUNT(*) AS `numrows`
+FROM (
+SELECT DISTINCT `kabupaten`
+FROM `sekolah`
+) CI_count_all_results', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*) AS `numrows`
+FROM (
+SELECT DISTINCT `kabupaten`
+FROM `sekolah`
+) CI_count_all_results')
+ 3 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*) AS `numrows`
+FROM (
+SELECT DISTINCT `kabupaten`
+FROM `sekolah`
+) CI_count_all_results')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1739): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM (
+SELECT DISTINCT `kabupaten`
+FROM `sekolah`
+) CI_count_all_results', [], false)
+ 5 SYSTEMPATH\Model.php(525): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+ 6 APPPATH\Controllers\Home.php(239): CodeIgniter\Model->countAllResults(false)
+ 7 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->sekolah()
+ 8 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2026-08-06 12:11:43 --> Unknown column 'kabupaten' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 300.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(300): mysqli->query('SELECT COUNT(*) AS `numrows`
+FROM (
+SELECT DISTINCT `kabupaten`
+FROM `sekolah`
+) CI_count_all_results', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*) AS `numrows`
+FROM (
+SELECT DISTINCT `kabupaten`
+FROM `sekolah`
+) CI_count_all_results')
+ 3 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*) AS `numrows`
+FROM (
+SELECT DISTINCT `kabupaten`
+FROM `sekolah`
+) CI_count_all_results')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1739): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM (
+SELECT DISTINCT `kabupaten`
+FROM `sekolah`
+) CI_count_all_results', [], false)
+ 5 SYSTEMPATH\Model.php(525): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+ 6 APPPATH\Controllers\Home.php(239): CodeIgniter\Model->countAllResults(false)
+ 7 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->sekolah()
+ 8 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-06 12:11:43 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'kabupaten' in 'field list'
+[Method: GET, Route: aum/sekolah]
+in SYSTEMPATH\Database\BaseConnection.php on line 863.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1739): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM (
+SELECT DISTINCT `kabupaten`
+FROM `sekolah`
+) CI_count_all_results', [], false)
+ 2 SYSTEMPATH\Model.php(525): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+ 3 APPPATH\Controllers\Home.php(239): CodeIgniter\Model->countAllResults(false)
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->sekolah()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-06 12:11:43 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'kabupaten' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 310.
+ 1 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*) AS `numrows`
+FROM (
+SELECT DISTINCT `kabupaten`
+FROM `sekolah`
+) CI_count_all_results')
+ 2 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*) AS `numrows`
+FROM (
+SELECT DISTINCT `kabupaten`
+FROM `sekolah`
+) CI_count_all_results')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1739): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM (
+SELECT DISTINCT `kabupaten`
+FROM `sekolah`
+) CI_count_all_results', [], false)
+ 4 SYSTEMPATH\Model.php(525): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+ 5 APPPATH\Controllers\Home.php(239): CodeIgniter\Model->countAllResults(false)
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->sekolah()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-06 12:11:43 --> [Caused by] mysqli_sql_exception: Unknown column 'kabupaten' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 300.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(300): mysqli->query('SELECT COUNT(*) AS `numrows`
+FROM (
+SELECT DISTINCT `kabupaten`
+FROM `sekolah`
+) CI_count_all_results', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*) AS `numrows`
+FROM (
+SELECT DISTINCT `kabupaten`
+FROM `sekolah`
+) CI_count_all_results')
+ 3 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*) AS `numrows`
+FROM (
+SELECT DISTINCT `kabupaten`
+FROM `sekolah`
+) CI_count_all_results')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1739): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM (
+SELECT DISTINCT `kabupaten`
+FROM `sekolah`
+) CI_count_all_results', [], false)
+ 5 SYSTEMPATH\Model.php(525): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+ 6 APPPATH\Controllers\Home.php(239): CodeIgniter\Model->countAllResults(false)
+ 7 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->sekolah()
+ 8 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2026-08-06 12:11:48 --> Unknown column 'kabupaten' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 300.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(300): mysqli->query('SELECT COUNT(*) AS `numrows`
+FROM (
+SELECT DISTINCT `kabupaten`
+FROM `sekolah`
+) CI_count_all_results', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*) AS `numrows`
+FROM (
+SELECT DISTINCT `kabupaten`
+FROM `sekolah`
+) CI_count_all_results')
+ 3 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*) AS `numrows`
+FROM (
+SELECT DISTINCT `kabupaten`
+FROM `sekolah`
+) CI_count_all_results')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1739): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM (
+SELECT DISTINCT `kabupaten`
+FROM `sekolah`
+) CI_count_all_results', [], false)
+ 5 SYSTEMPATH\Model.php(525): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+ 6 APPPATH\Controllers\Home.php(239): CodeIgniter\Model->countAllResults(false)
+ 7 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->sekolah()
+ 8 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-06 12:11:48 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'kabupaten' in 'field list'
+[Method: GET, Route: aum/sekolah]
+in SYSTEMPATH\Database\BaseConnection.php on line 863.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1739): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM (
+SELECT DISTINCT `kabupaten`
+FROM `sekolah`
+) CI_count_all_results', [], false)
+ 2 SYSTEMPATH\Model.php(525): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+ 3 APPPATH\Controllers\Home.php(239): CodeIgniter\Model->countAllResults(false)
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->sekolah()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-06 12:11:48 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'kabupaten' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 310.
+ 1 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*) AS `numrows`
+FROM (
+SELECT DISTINCT `kabupaten`
+FROM `sekolah`
+) CI_count_all_results')
+ 2 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*) AS `numrows`
+FROM (
+SELECT DISTINCT `kabupaten`
+FROM `sekolah`
+) CI_count_all_results')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1739): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM (
+SELECT DISTINCT `kabupaten`
+FROM `sekolah`
+) CI_count_all_results', [], false)
+ 4 SYSTEMPATH\Model.php(525): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+ 5 APPPATH\Controllers\Home.php(239): CodeIgniter\Model->countAllResults(false)
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->sekolah()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-06 12:11:48 --> [Caused by] mysqli_sql_exception: Unknown column 'kabupaten' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 300.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(300): mysqli->query('SELECT COUNT(*) AS `numrows`
+FROM (
+SELECT DISTINCT `kabupaten`
+FROM `sekolah`
+) CI_count_all_results', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*) AS `numrows`
+FROM (
+SELECT DISTINCT `kabupaten`
+FROM `sekolah`
+) CI_count_all_results')
+ 3 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*) AS `numrows`
+FROM (
+SELECT DISTINCT `kabupaten`
+FROM `sekolah`
+) CI_count_all_results')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1739): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM (
+SELECT DISTINCT `kabupaten`
+FROM `sekolah`
+) CI_count_all_results', [], false)
+ 5 SYSTEMPATH\Model.php(525): CodeIgniter\Database\BaseBuilder->countAllResults(false)
+ 6 APPPATH\Controllers\Home.php(239): CodeIgniter\Model->countAllResults(false)
+ 7 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->sekolah()
+ 8 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-08-06 12:14:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-06 12:14:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2026-08-06 12:14:32 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "layout/template.php"
+[Method: GET, Route: aum/sekolah]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/template.php')
+ 2 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('layout/template', [], true)
+ 3 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('pages/sekolah', [], true)
+ 4 APPPATH\Controllers\Home.php(258): view('pages/sekolah', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->sekolah()
+ 6 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-08-06 12:14:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2026-08-06 12:20:34 --> ErrorException: Undefined variable $statJenjang
+[Method: GET, Route: aum/sekolah]
+in APPPATH\Views\pages\layout\header.php on line 60.
+ 1 APPPATH\Views\pages\layout\header.php(60): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $statJenjang', 'C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\header.php', 60)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\header.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+ 5 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+ 6 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+ 7 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', [], true)
+ 9 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('pages/sekolah', [], true)
+10 APPPATH\Controllers\Home.php(258): view('pages/sekolah', [...])
+11 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->sekolah()
+12 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+13 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+16 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-06 12:21:00 --> ErrorException: Undefined variable $statJenjang
+[Method: GET, Route: aum/sekolah]
+in APPPATH\Views\pages\layout\header.php on line 60.
+ 1 APPPATH\Views\pages\layout\header.php(60): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $statJenjang', 'C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\header.php', 60)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\header.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+ 5 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+ 6 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+ 7 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', [], true)
+ 9 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('pages/sekolah', [], true)
+10 APPPATH\Controllers\Home.php(258): view('pages/sekolah', [...])
+11 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->sekolah()
+12 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+13 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+16 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-06 12:22:30 --> Error: Xdebug has detected a possible infinite loop, and aborted your script with a stack depth of '256' frames
+[Method: GET, Route: aum/sekolah]
+in SYSTEMPATH\HTTP\URI.php on line 218.
+ 1 SYSTEMPATH\HTTP\URI.php(218): explode('/', '/pw-muhammadiyah/public/')
+ 2 SYSTEMPATH\HTTP\URI.php(1022): CodeIgniter\HTTP\URI::removeDotSegments('/pw-muhammadiyah/public/')
+ 3 SYSTEMPATH\HTTP\URI.php(1069): CodeIgniter\HTTP\URI->filterPath('/pw-muhammadiyah/public/')
+ 4 SYSTEMPATH\HTTP\URI.php(316): CodeIgniter\HTTP\URI->applyParts([...])
+ 5 SYSTEMPATH\HTTP\URI.php(265): CodeIgniter\HTTP\URI->setURI('http://localhost:/pw-muhammadiyah/public/')
+ 6 SYSTEMPATH\HTTP\URI.php(666): CodeIgniter\HTTP\URI->__construct('http://localhost:/pw-muhammadiyah/public/')
+ 7 SYSTEMPATH\HTTP\URI.php(643): CodeIgniter\HTTP\URI->changeSchemeAndPath('http', '/pw-muhammadiyah/public/')
+ 8 SYSTEMPATH\HTTP\SiteURI.php(112): CodeIgniter\HTTP\URI->__toString()
+ 9 SYSTEMPATH\HTTP\SiteURI.php(400): CodeIgniter\HTTP\SiteURI->__construct(Object(Config\App), '', 'localhost', null)
+10 SYSTEMPATH\Helpers\url_helper.php(60): CodeIgniter\HTTP\SiteURI->baseUrl('', null)
+11 APPPATH\Views\pages\layout\header.php(10): base_url()
+12 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\header.php')
+13 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+14 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+15 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+16 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+17 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+18 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+19 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+20 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+21 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+22 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+23 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+24 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+25 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+26 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+27 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+28 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+29 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+30 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+31 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+32 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+33 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+34 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+35 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+36 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+37 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+38 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+39 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+40 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+41 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+42 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+43 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+44 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+45 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+46 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+47 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+48 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+49 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+50 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+51 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+52 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+53 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+54 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+55 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+56 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+57 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+58 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+59 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+60 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+61 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+62 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+63 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+64 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+65 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+66 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+67 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+68 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+69 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+70 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+71 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+72 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+73 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+74 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+75 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+76 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+77 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+78 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+79 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+80 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+81 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+82 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+83 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+84 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+85 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+86 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+87 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+88 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+89 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+90 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+91 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+92 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+93 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+94 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+95 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+96 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+97 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+98 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+99 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+100 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+101 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+102 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+103 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+104 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+105 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+106 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+107 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+108 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+109 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+110 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+111 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+112 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+113 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+114 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+115 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+116 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+117 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+118 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+119 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+120 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+121 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+122 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+123 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+124 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+125 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+126 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+127 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+128 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+129 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+130 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+131 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+132 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+133 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+134 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+135 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+136 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+137 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+138 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+139 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+140 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+141 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+142 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+143 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+144 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+145 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+146 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+147 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+148 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+149 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+150 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+151 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+152 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+153 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+154 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+155 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+156 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+157 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+158 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+159 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+160 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+161 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+162 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+163 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+164 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+165 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+166 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+167 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+168 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+169 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+170 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+171 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+172 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+173 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+174 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+175 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+176 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+177 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+178 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+179 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+180 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+181 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+182 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+183 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+184 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+185 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+186 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+187 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+188 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+189 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+190 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+191 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+192 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+193 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+194 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+195 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+196 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+197 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+198 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+199 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+200 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+201 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+202 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+203 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+204 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+205 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+206 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+207 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+208 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+209 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+210 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+211 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+212 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+213 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+214 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+215 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+216 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+217 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+218 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+219 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+220 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+221 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+222 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+223 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+224 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+225 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+226 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+227 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+228 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+229 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+230 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+231 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+232 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+233 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+234 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+235 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+236 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+237 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+238 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+239 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+240 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+241 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+242 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+243 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+244 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+245 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+246 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+247 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+248 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', [], true)
+249 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('pages/sekolah', [], true)
+250 APPPATH\Controllers\Home.php(288): view('pages/sekolah', [...])
+251 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->sekolah()
+252 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+253 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+254 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+255 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+256 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-06 12:24:17 --> Error: Xdebug has detected a possible infinite loop, and aborted your script with a stack depth of '256' frames
+[Method: GET, Route: aum/sekolah]
+in SYSTEMPATH\HTTP\URI.php on line 218.
+ 1 SYSTEMPATH\HTTP\URI.php(218): explode('/', '/pw-muhammadiyah/public/')
+ 2 SYSTEMPATH\HTTP\URI.php(1022): CodeIgniter\HTTP\URI::removeDotSegments('/pw-muhammadiyah/public/')
+ 3 SYSTEMPATH\HTTP\URI.php(1069): CodeIgniter\HTTP\URI->filterPath('/pw-muhammadiyah/public/')
+ 4 SYSTEMPATH\HTTP\URI.php(316): CodeIgniter\HTTP\URI->applyParts([...])
+ 5 SYSTEMPATH\HTTP\URI.php(265): CodeIgniter\HTTP\URI->setURI('http://localhost:/pw-muhammadiyah/public/')
+ 6 SYSTEMPATH\HTTP\URI.php(666): CodeIgniter\HTTP\URI->__construct('http://localhost:/pw-muhammadiyah/public/')
+ 7 SYSTEMPATH\HTTP\URI.php(643): CodeIgniter\HTTP\URI->changeSchemeAndPath('http', '/pw-muhammadiyah/public/')
+ 8 SYSTEMPATH\HTTP\SiteURI.php(112): CodeIgniter\HTTP\URI->__toString()
+ 9 SYSTEMPATH\HTTP\SiteURI.php(400): CodeIgniter\HTTP\SiteURI->__construct(Object(Config\App), '', 'localhost', null)
+10 SYSTEMPATH\Helpers\url_helper.php(60): CodeIgniter\HTTP\SiteURI->baseUrl('', null)
+11 APPPATH\Views\pages\layout\header.php(10): base_url()
+12 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\header.php')
+13 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+14 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+15 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+16 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+17 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+18 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+19 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+20 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+21 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+22 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+23 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+24 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+25 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+26 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+27 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+28 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+29 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+30 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+31 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+32 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+33 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+34 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+35 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+36 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+37 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+38 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+39 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+40 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+41 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+42 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+43 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+44 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+45 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+46 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+47 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+48 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+49 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+50 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+51 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+52 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+53 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+54 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+55 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+56 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+57 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+58 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+59 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+60 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+61 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+62 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+63 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+64 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+65 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+66 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+67 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+68 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+69 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+70 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+71 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+72 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+73 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+74 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+75 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+76 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+77 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+78 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+79 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+80 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+81 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+82 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+83 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+84 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+85 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+86 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+87 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+88 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+89 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+90 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+91 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+92 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+93 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+94 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+95 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+96 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+97 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+98 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+99 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+100 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+101 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+102 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+103 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+104 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+105 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+106 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+107 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+108 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+109 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+110 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+111 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+112 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+113 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+114 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+115 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+116 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+117 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+118 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+119 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+120 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+121 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+122 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+123 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+124 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+125 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+126 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+127 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+128 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+129 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+130 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+131 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+132 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+133 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+134 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+135 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+136 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+137 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+138 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+139 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+140 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+141 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+142 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+143 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+144 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+145 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+146 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+147 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+148 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+149 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+150 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+151 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+152 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+153 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+154 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+155 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+156 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+157 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+158 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+159 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+160 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+161 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+162 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+163 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+164 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+165 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+166 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+167 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+168 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+169 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+170 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+171 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+172 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+173 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+174 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+175 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+176 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+177 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+178 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+179 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+180 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+181 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+182 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+183 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+184 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+185 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+186 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+187 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+188 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+189 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+190 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+191 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+192 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+193 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+194 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+195 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+196 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+197 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+198 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+199 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+200 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+201 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+202 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+203 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+204 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+205 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+206 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+207 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+208 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+209 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+210 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+211 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+212 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+213 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+214 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+215 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+216 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+217 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+218 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+219 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+220 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+221 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+222 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+223 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+224 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+225 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+226 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+227 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+228 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+229 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+230 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+231 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+232 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+233 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+234 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+235 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+236 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+237 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+238 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+239 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+240 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+241 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+242 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+243 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+244 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+245 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+246 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+247 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+248 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', [], true)
+249 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('pages/sekolah', [], true)
+250 APPPATH\Controllers\Home.php(288): view('pages/sekolah', [...])
+251 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->sekolah()
+252 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+253 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+254 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+255 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+256 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-06 12:24:20 --> ErrorException: Undefined variable $totalSekolah
+[Method: GET, Route: /]
+in APPPATH\Views\pages\layout\header.php on line 17.
+ 1 APPPATH\Views\pages\layout\header.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $totalSekolah', 'C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\header.php', 17)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\header.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+ 5 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+ 6 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+ 7 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', [], true)
+ 9 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('pages/beranda', [], true)
+10 APPPATH\Controllers\Home.php(61): view('pages/beranda', [...])
+11 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->index()
+12 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+13 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+16 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-06 12:24:23 --> Error: Xdebug has detected a possible infinite loop, and aborted your script with a stack depth of '256' frames
+[Method: GET, Route: aum/sekolah]
+in SYSTEMPATH\HTTP\URI.php on line 218.
+ 1 SYSTEMPATH\HTTP\URI.php(218): explode('/', '/pw-muhammadiyah/public/')
+ 2 SYSTEMPATH\HTTP\URI.php(1022): CodeIgniter\HTTP\URI::removeDotSegments('/pw-muhammadiyah/public/')
+ 3 SYSTEMPATH\HTTP\URI.php(1069): CodeIgniter\HTTP\URI->filterPath('/pw-muhammadiyah/public/')
+ 4 SYSTEMPATH\HTTP\URI.php(316): CodeIgniter\HTTP\URI->applyParts([...])
+ 5 SYSTEMPATH\HTTP\URI.php(265): CodeIgniter\HTTP\URI->setURI('http://localhost:/pw-muhammadiyah/public/')
+ 6 SYSTEMPATH\HTTP\URI.php(666): CodeIgniter\HTTP\URI->__construct('http://localhost:/pw-muhammadiyah/public/')
+ 7 SYSTEMPATH\HTTP\URI.php(643): CodeIgniter\HTTP\URI->changeSchemeAndPath('http', '/pw-muhammadiyah/public/')
+ 8 SYSTEMPATH\HTTP\SiteURI.php(112): CodeIgniter\HTTP\URI->__toString()
+ 9 SYSTEMPATH\HTTP\SiteURI.php(400): CodeIgniter\HTTP\SiteURI->__construct(Object(Config\App), '', 'localhost', null)
+10 SYSTEMPATH\Helpers\url_helper.php(60): CodeIgniter\HTTP\SiteURI->baseUrl('', null)
+11 APPPATH\Views\pages\layout\header.php(10): base_url()
+12 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\header.php')
+13 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+14 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+15 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+16 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+17 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+18 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+19 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+20 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+21 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+22 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+23 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+24 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+25 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+26 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+27 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+28 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+29 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+30 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+31 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+32 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+33 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+34 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+35 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+36 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+37 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+38 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+39 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+40 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+41 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+42 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+43 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+44 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+45 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+46 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+47 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+48 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+49 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+50 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+51 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+52 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+53 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+54 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+55 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+56 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+57 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+58 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+59 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+60 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+61 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+62 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+63 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+64 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+65 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+66 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+67 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+68 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+69 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+70 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+71 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+72 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+73 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+74 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+75 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+76 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+77 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+78 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+79 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+80 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+81 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+82 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+83 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+84 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+85 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+86 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+87 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+88 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+89 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+90 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+91 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+92 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+93 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+94 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+95 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+96 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+97 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+98 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+99 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+100 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+101 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+102 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+103 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+104 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+105 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+106 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+107 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+108 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+109 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+110 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+111 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+112 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+113 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+114 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+115 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+116 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+117 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+118 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+119 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+120 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+121 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+122 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+123 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+124 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+125 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+126 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+127 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+128 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+129 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+130 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+131 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+132 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+133 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+134 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+135 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+136 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+137 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+138 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+139 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+140 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+141 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+142 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+143 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+144 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+145 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+146 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+147 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+148 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+149 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+150 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+151 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+152 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+153 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+154 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+155 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+156 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+157 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+158 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+159 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+160 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+161 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+162 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+163 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+164 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+165 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+166 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+167 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+168 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+169 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+170 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+171 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+172 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+173 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+174 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+175 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+176 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+177 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+178 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+179 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+180 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+181 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+182 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+183 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+184 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+185 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+186 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+187 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+188 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+189 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+190 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+191 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+192 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+193 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+194 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+195 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+196 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+197 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+198 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+199 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+200 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+201 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+202 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+203 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+204 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+205 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+206 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+207 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+208 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+209 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+210 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+211 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+212 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+213 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+214 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+215 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+216 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+217 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+218 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+219 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+220 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+221 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+222 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+223 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+224 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+225 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+226 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+227 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+228 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+229 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+230 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+231 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+232 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+233 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+234 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+235 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+236 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+237 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+238 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+239 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+240 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+241 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+242 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+243 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', null, true)
+244 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+245 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+246 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+247 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+248 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', [], true)
+249 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('pages/sekolah', [], true)
+250 APPPATH\Controllers\Home.php(288): view('pages/sekolah', [...])
+251 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->sekolah()
+252 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+253 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+254 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+255 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+256 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-06 12:24:26 --> ErrorException: Undefined variable $totalSekolah
+[Method: GET, Route: profil/sejarah]
+in APPPATH\Views\pages\layout\header.php on line 17.
+ 1 APPPATH\Views\pages\layout\header.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $totalSekolah', 'C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\header.php', 17)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\header.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+ 5 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+ 6 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+ 7 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', [], true)
+ 9 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('pages/profil/sejarah', [], true)
+10 APPPATH\Controllers\Home.php(158): view('pages/profil/sejarah', [...])
+11 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->sejarah()
+12 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+13 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+16 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-06 12:24:27 --> ErrorException: Undefined variable $totalSekolah
+[Method: GET, Route: profil/tentang-kami]
+in APPPATH\Views\pages\layout\header.php on line 17.
+ 1 APPPATH\Views\pages\layout\header.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $totalSekolah', 'C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\header.php', 17)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\header.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+ 5 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+ 6 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+ 7 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', [], true)
+ 9 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('pages/profil/tentang_kami', [], true)
+10 APPPATH\Controllers\Home.php(138): view('pages/profil/tentang_kami', [...])
+11 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->tentangKami()
+12 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+13 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+16 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-06 12:24:31 --> ErrorException: Undefined variable $totalSekolah
+[Method: GET, Route: berita]
+in APPPATH\Views\pages\layout\header.php on line 17.
+ 1 APPPATH\Views\pages\layout\header.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $totalSekolah', 'C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\header.php', 17)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\header.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+ 5 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+ 6 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+ 7 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', [], true)
+ 9 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('pages/berita', [], true)
+10 APPPATH\Controllers\Home.php(88): view('pages/berita', [...])
+11 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->berita()
+12 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+13 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+16 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-06 12:24:37 --> ErrorException: Undefined variable $totalSekolah
+[Method: GET, Route: profil/program-kerja]
+in APPPATH\Views\pages\layout\header.php on line 17.
+ 1 APPPATH\Views\pages\layout\header.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $totalSekolah', 'C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\header.php', 17)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\header.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+ 5 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+ 6 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+ 7 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', [], true)
+ 9 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('pages/profil/program_kerja', [], true)
+10 APPPATH\Controllers\Home.php(178): view('pages/profil/program_kerja', [...])
+11 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->programKerja()
+12 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+13 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+16 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-06 12:24:38 --> ErrorException: Undefined variable $totalSekolah
+[Method: GET, Route: profil/aum]
+in APPPATH\Views\pages\layout\header.php on line 17.
+ 1 APPPATH\Views\pages\layout\header.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $totalSekolah', 'C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\header.php', 17)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\header.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+ 5 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+ 6 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+ 7 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', [], true)
+ 9 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('pages/profil/aum', [], true)
+10 APPPATH\Controllers\Home.php(188): view('pages/profil/aum', [...])
+11 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->aum()
+12 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+13 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+16 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-06 12:24:38 --> ErrorException: Undefined variable $totalSekolah
+[Method: GET, Route: profil/aum]
+in APPPATH\Views\pages\layout\header.php on line 17.
+ 1 APPPATH\Views\pages\layout\header.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $totalSekolah', 'C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\header.php', 17)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\header.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+ 5 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+ 6 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+ 7 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', [], true)
+ 9 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('pages/profil/aum', [], true)
+10 APPPATH\Controllers\Home.php(188): view('pages/profil/aum', [...])
+11 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->aum()
+12 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+13 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+16 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-08-06 12:24:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-06 12:24:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-06 12:24:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2026-08-06 12:24:50 --> ErrorException: Undefined variable $totalSekolah
+[Method: GET, Route: /]
+in APPPATH\Views\pages\layout\header.php on line 17.
+ 1 APPPATH\Views\pages\layout\header.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $totalSekolah', 'C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\header.php', 17)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\header.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(489): CodeIgniter\View\View->render('pages/layout/header', null, true)
+ 5 APPPATH\Views\pages\layout\main.php(25): CodeIgniter\View\View->include('pages/layout/header')
+ 6 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\layout\\main.php')
+ 7 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('pages/layout/main', [], true)
+ 9 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('pages/beranda', [], true)
+10 APPPATH\Controllers\Home.php(61): view('pages/beranda', [...])
+11 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->index()
+12 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+13 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+14 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+15 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+16 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2026-08-06 12:36:41 --> Unknown column 'id_sekolah' in 'order clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 300.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(300): mysqli->query('SELECT *
+FROM `sekolah`
+ORDER BY `id_sekolah` DESC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `sekolah`
+ORDER BY `id_sekolah` DESC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `sekolah`
+ORDER BY `id_sekolah` DESC')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1655): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `sekolah`
+ORDER BY `id_sekolah` DESC', [], false)
+ 5 SYSTEMPATH\Model.php(255): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\Admin\Sekolah.php(45): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Admin\Sekolah->index()
+ 9 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Sekolah))
+10 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-06 12:36:41 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'id_sekolah' in 'order clause'
+[Method: GET, Route: admin/sekolah]
+in SYSTEMPATH\Database\BaseConnection.php on line 863.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1655): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `sekolah`
+ORDER BY `id_sekolah` DESC', [], false)
+ 2 SYSTEMPATH\Model.php(255): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\Admin\Sekolah.php(45): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Admin\Sekolah->index()
+ 6 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Sekolah))
+ 7 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-06 12:36:41 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'id_sekolah' in 'order clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 310.
+ 1 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `sekolah`
+ORDER BY `id_sekolah` DESC')
+ 2 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `sekolah`
+ORDER BY `id_sekolah` DESC')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1655): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `sekolah`
+ORDER BY `id_sekolah` DESC', [], false)
+ 4 SYSTEMPATH\Model.php(255): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\Admin\Sekolah.php(45): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Admin\Sekolah->index()
+ 8 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Sekolah))
+ 9 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-06 12:36:41 --> [Caused by] mysqli_sql_exception: Unknown column 'id_sekolah' in 'order clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 300.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(300): mysqli->query('SELECT *
+FROM `sekolah`
+ORDER BY `id_sekolah` DESC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `sekolah`
+ORDER BY `id_sekolah` DESC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `sekolah`
+ORDER BY `id_sekolah` DESC')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1655): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `sekolah`
+ORDER BY `id_sekolah` DESC', [], false)
+ 5 SYSTEMPATH\Model.php(255): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\Admin\Sekolah.php(45): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Admin\Sekolah->index()
+ 9 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Sekolah))
+10 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2026-08-06 12:37:09 --> Unknown column 'id_sekolah' in 'order clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 300.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(300): mysqli->query('SELECT *
+FROM `sekolah`
+ORDER BY `id_sekolah` DESC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `sekolah`
+ORDER BY `id_sekolah` DESC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `sekolah`
+ORDER BY `id_sekolah` DESC')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1655): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `sekolah`
+ORDER BY `id_sekolah` DESC', [], false)
+ 5 SYSTEMPATH\Model.php(255): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\Admin\Sekolah.php(45): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Admin\Sekolah->index()
+ 9 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Sekolah))
+10 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-06 12:37:09 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'id_sekolah' in 'order clause'
+[Method: GET, Route: admin/sekolah]
+in SYSTEMPATH\Database\BaseConnection.php on line 863.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1655): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `sekolah`
+ORDER BY `id_sekolah` DESC', [], false)
+ 2 SYSTEMPATH\Model.php(255): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\Admin\Sekolah.php(45): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Admin\Sekolah->index()
+ 6 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Sekolah))
+ 7 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-06 12:37:09 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'id_sekolah' in 'order clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 310.
+ 1 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `sekolah`
+ORDER BY `id_sekolah` DESC')
+ 2 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `sekolah`
+ORDER BY `id_sekolah` DESC')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1655): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `sekolah`
+ORDER BY `id_sekolah` DESC', [], false)
+ 4 SYSTEMPATH\Model.php(255): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\Admin\Sekolah.php(45): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Admin\Sekolah->index()
+ 8 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Sekolah))
+ 9 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-06 12:37:09 --> [Caused by] mysqli_sql_exception: Unknown column 'id_sekolah' in 'order clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 300.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(300): mysqli->query('SELECT *
+FROM `sekolah`
+ORDER BY `id_sekolah` DESC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `sekolah`
+ORDER BY `id_sekolah` DESC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `sekolah`
+ORDER BY `id_sekolah` DESC')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1655): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `sekolah`
+ORDER BY `id_sekolah` DESC', [], false)
+ 5 SYSTEMPATH\Model.php(255): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\Admin\Sekolah.php(45): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Admin\Sekolah->index()
+ 9 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Sekolah))
+10 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2026-08-06 12:45:30 --> [DEPRECATED] strtoupper(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\pages\sekolah.php on line 86.
+ 1 APPPATH\Views\pages\sekolah.php(86): strtoupper(null)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\sekolah.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('pages/sekolah', [], true)
+ 5 APPPATH\Controllers\Home.php(288): view('pages/sekolah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->sekolah()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2026-08-06 12:45:30 --> [DEPRECATED] strtoupper(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\pages\sekolah.php on line 86.
+ 1 APPPATH\Views\pages\sekolah.php(86): strtoupper(null)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\sekolah.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('pages/sekolah', [], true)
+ 5 APPPATH\Controllers\Home.php(288): view('pages/sekolah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->sekolah()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2026-08-06 12:45:31 --> [DEPRECATED] strtoupper(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\pages\sekolah.php on line 86.
+ 1 APPPATH\Views\pages\sekolah.php(86): strtoupper(null)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\sekolah.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('pages/sekolah', [], true)
+ 5 APPPATH\Controllers\Home.php(288): view('pages/sekolah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->sekolah()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2026-08-06 12:45:31 --> [DEPRECATED] strtoupper(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\pages\sekolah.php on line 86.
+ 1 APPPATH\Views\pages\sekolah.php(86): strtoupper(null)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\sekolah.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('pages/sekolah', [], true)
+ 5 APPPATH\Controllers\Home.php(288): view('pages/sekolah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->sekolah()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2026-08-06 12:45:31 --> [DEPRECATED] strtoupper(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\pages\sekolah.php on line 86.
+ 1 APPPATH\Views\pages\sekolah.php(86): strtoupper(null)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\sekolah.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('pages/sekolah', [], true)
+ 5 APPPATH\Controllers\Home.php(288): view('pages/sekolah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->sekolah()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2026-08-06 12:45:31 --> [DEPRECATED] strtoupper(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\pages\sekolah.php on line 86.
+ 1 APPPATH\Views\pages\sekolah.php(86): strtoupper(null)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\sekolah.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('pages/sekolah', [], true)
+ 5 APPPATH\Controllers\Home.php(288): view('pages/sekolah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->sekolah()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2026-08-06 12:45:31 --> [DEPRECATED] strtoupper(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\pages\sekolah.php on line 86.
+ 1 APPPATH\Views\pages\sekolah.php(86): strtoupper(null)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\sekolah.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('pages/sekolah', [], true)
+ 5 APPPATH\Controllers\Home.php(288): view('pages/sekolah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->sekolah()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2026-08-06 12:45:31 --> [DEPRECATED] strtoupper(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\pages\sekolah.php on line 86.
+ 1 APPPATH\Views\pages\sekolah.php(86): strtoupper(null)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\sekolah.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('pages/sekolah', [], true)
+ 5 APPPATH\Controllers\Home.php(288): view('pages/sekolah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->sekolah()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2026-08-06 12:45:31 --> [DEPRECATED] strtoupper(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\pages\sekolah.php on line 150.
+ 1 APPPATH\Views\pages\sekolah.php(150): strtoupper(null)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\sekolah.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('pages/sekolah', [], true)
+ 5 APPPATH\Controllers\Home.php(288): view('pages/sekolah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->sekolah()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2026-08-06 12:45:31 --> [DEPRECATED] strtoupper(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\pages\sekolah.php on line 150.
+ 1 APPPATH\Views\pages\sekolah.php(150): strtoupper(null)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\sekolah.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('pages/sekolah', [], true)
+ 5 APPPATH\Controllers\Home.php(288): view('pages/sekolah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->sekolah()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2026-08-06 12:45:31 --> [DEPRECATED] strtoupper(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\pages\sekolah.php on line 150.
+ 1 APPPATH\Views\pages\sekolah.php(150): strtoupper(null)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\sekolah.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('pages/sekolah', [], true)
+ 5 APPPATH\Controllers\Home.php(288): view('pages/sekolah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->sekolah()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2026-08-06 12:45:31 --> [DEPRECATED] strtoupper(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\pages\sekolah.php on line 150.
+ 1 APPPATH\Views\pages\sekolah.php(150): strtoupper(null)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\sekolah.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('pages/sekolah', [], true)
+ 5 APPPATH\Controllers\Home.php(288): view('pages/sekolah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->sekolah()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2026-08-06 12:45:31 --> [DEPRECATED] strtoupper(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\pages\sekolah.php on line 150.
+ 1 APPPATH\Views\pages\sekolah.php(150): strtoupper(null)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\sekolah.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('pages/sekolah', [], true)
+ 5 APPPATH\Controllers\Home.php(288): view('pages/sekolah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->sekolah()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2026-08-06 12:45:31 --> [DEPRECATED] strtoupper(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\pages\sekolah.php on line 150.
+ 1 APPPATH\Views\pages\sekolah.php(150): strtoupper(null)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\sekolah.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('pages/sekolah', [], true)
+ 5 APPPATH\Controllers\Home.php(288): view('pages/sekolah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->sekolah()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2026-08-06 12:45:31 --> [DEPRECATED] strtoupper(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\pages\sekolah.php on line 150.
+ 1 APPPATH\Views\pages\sekolah.php(150): strtoupper(null)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\sekolah.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('pages/sekolah', [], true)
+ 5 APPPATH\Controllers\Home.php(288): view('pages/sekolah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->sekolah()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2026-08-06 12:45:31 --> [DEPRECATED] strtoupper(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\pages\sekolah.php on line 150.
+ 1 APPPATH\Views\pages\sekolah.php(150): strtoupper(null)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\sekolah.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('pages/sekolah', [], true)
+ 5 APPPATH\Controllers\Home.php(288): view('pages/sekolah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->sekolah()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2026-08-06 12:45:31 --> [DEPRECATED] strtoupper(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\pages\sekolah.php on line 176.
+ 1 APPPATH\Views\pages\sekolah.php(176): strtoupper(null)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\sekolah.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('pages/sekolah', [], true)
+ 5 APPPATH\Controllers\Home.php(288): view('pages/sekolah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->sekolah()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2026-08-06 12:45:31 --> [DEPRECATED] strtoupper(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\pages\sekolah.php on line 177.
+ 1 APPPATH\Views\pages\sekolah.php(177): strtoupper(null)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\sekolah.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('pages/sekolah', [], true)
+ 5 APPPATH\Controllers\Home.php(288): view('pages/sekolah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->sekolah()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2026-08-06 12:45:31 --> [DEPRECATED] strtoupper(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\pages\sekolah.php on line 178.
+ 1 APPPATH\Views\pages\sekolah.php(178): strtoupper(null)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\sekolah.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('pages/sekolah', [], true)
+ 5 APPPATH\Controllers\Home.php(288): view('pages/sekolah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->sekolah()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2026-08-06 12:45:31 --> [DEPRECATED] strtolower(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\pages\sekolah.php on line 179.
+ 1 APPPATH\Views\pages\sekolah.php(179): strtolower(null)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\sekolah.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('pages/sekolah', [], true)
+ 5 APPPATH\Controllers\Home.php(288): view('pages/sekolah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->sekolah()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2026-08-06 12:45:41 --> [DEPRECATED] strtoupper(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\pages\sekolah.php on line 176.
+ 1 APPPATH\Views\pages\sekolah.php(176): strtoupper(null)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\sekolah.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('pages/sekolah', [], true)
+ 5 APPPATH\Controllers\Home.php(288): view('pages/sekolah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->sekolah()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2026-08-06 12:45:41 --> [DEPRECATED] strtoupper(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\pages\sekolah.php on line 177.
+ 1 APPPATH\Views\pages\sekolah.php(177): strtoupper(null)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\sekolah.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('pages/sekolah', [], true)
+ 5 APPPATH\Controllers\Home.php(288): view('pages/sekolah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->sekolah()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2026-08-06 12:45:41 --> [DEPRECATED] strtoupper(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\pages\sekolah.php on line 178.
+ 1 APPPATH\Views\pages\sekolah.php(178): strtoupper(null)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\sekolah.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('pages/sekolah', [], true)
+ 5 APPPATH\Controllers\Home.php(288): view('pages/sekolah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->sekolah()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2026-08-06 12:45:41 --> [DEPRECATED] strtolower(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH\Views\pages\sekolah.php on line 179.
+ 1 APPPATH\Views\pages\sekolah.php(179): strtolower(null)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\sekolah.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('pages/sekolah', [], true)
+ 5 APPPATH\Controllers\Home.php(288): view('pages/sekolah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->sekolah()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-06 13:02:37 --> ErrorException: Undefined variable $statJenjangData
+[Method: GET, Route: sekolah]
+in APPPATH\Views\pages\sekolah.php on line 142.
+ 1 APPPATH\Views\pages\sekolah.php(142): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $statJenjangData', 'C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\sekolah.php', 142)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\sekolah.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('pages/sekolah', [], true)
+ 5 APPPATH\Controllers\Home.php(288): view('pages/sekolah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->sekolah()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-06 13:02:53 --> ErrorException: Undefined variable $statJenjangData
+[Method: GET, Route: sekolah]
+in APPPATH\Views\pages\sekolah.php on line 142.
+ 1 APPPATH\Views\pages\sekolah.php(142): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $statJenjangData', 'C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\sekolah.php', 142)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\sekolah.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('pages/sekolah', [], true)
+ 5 APPPATH\Controllers\Home.php(288): view('pages/sekolah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->sekolah()
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))

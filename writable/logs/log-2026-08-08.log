@@ -1,0 +1,1250 @@
+CRITICAL - 2026-08-08 08:11:56 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pages/profil/ortom.php"
+[Method: GET, Route: ortom]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/profil/ortom.php')
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('pages/profil/ortom', [], true)
+ 3 APPPATH\Controllers\Home.php(373): view('pages/profil/ortom', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->ortom()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-08-08 08:12:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 08:13:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 08:13:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 08:13:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 08:33:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 08:33:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 08:40:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 08:40:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 08:41:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 08:41:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 08:42:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 08:42:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 08:50:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 08:50:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2026-08-08 08:55:59 --> Error: Class "App\Models\MajelisLembagaModel" not found
+[Method: GET, Route: admin/profil/program-kerja]
+in APPPATH\Controllers\Admin\Profil.php on line 31.
+ 1 SYSTEMPATH\CodeIgniter.php(944): App\Controllers\Admin\Profil->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(511): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-08-08 08:58:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2026-08-08 08:58:09 --> ErrorException: unlink(C:\wamp64\www\pw-muhammadiyah\writable\debugbar/debugbar_1786177980.741442.json): No such file or directory
+[Method: GET, Route: /]
+in SYSTEMPATH\Debug\Toolbar\Collectors\History.php on line 82.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(C:\\wamp64\\www\\pw-muhammadiyah\\writable\\debugbar/debugbar_1786177980.741442.json): No such file or directory', 'C:\\wamp64\\www\\pw-muhammadiyah\\system\\Debug\\Toolbar\\Collectors\\History.php', 82)
+ 2 SYSTEMPATH\Debug\Toolbar\Collectors\History.php(82): unlink('C:\\wamp64\\www\\pw-muhammadiyah\\writable\\debugbar/debugbar_1786177980.741442.json')
+ 3 SYSTEMPATH\Debug\Toolbar.php(515): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles('1786179487.957641', 20)
+ 4 SYSTEMPATH\Debug\Toolbar.php(494): CodeIgniter\Debug\Toolbar->format([...], 'html')
+ 5 APPPATH\Config\Events.php(49): CodeIgniter\Debug\Toolbar->respond()
+ 6 SYSTEMPATH\Events\Events.php(152): CodeIgniter\Events\Events::Config\{closure}()
+ 7 SYSTEMPATH\CodeIgniter.php(348): CodeIgniter\Events\Events::trigger('pre_system')
+ 8 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-08-08 09:00:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 09:00:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 09:02:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 09:02:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 09:02:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 09:02:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 09:02:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 09:02:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 09:02:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 09:02:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 09:03:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 09:03:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 09:04:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 09:04:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 09:04:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 09:04:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 09:06:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 09:06:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 09:06:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 09:06:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 09:07:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 09:07:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 09:07:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 09:08:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 09:08:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-08-08 09:11:06 --> Table 'db_pwmuhammadiyah.majelis' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 300.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(300): mysqli->query('SELECT `program_kerja`.*, `majelis`.`nama_majelis`
+FROM `program_kerja`
+LEFT JOIN `majelis` ON `majelis`.`id_majelis` = `program_kerja`.`id_majelis`
+ORDER BY `program_kerja`.`id_program` DESC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `program_kerja`.*, `majelis`.`nama_majelis`
+FROM `program_kerja`
+LEFT JOIN `majelis` ON `majelis`.`id_majelis` = `program_kerja`.`id_majelis`
+ORDER BY `program_kerja`.`id_program` DESC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `program_kerja`.*, `majelis`.`nama_majelis`
+FROM `program_kerja`
+LEFT JOIN `majelis` ON `majelis`.`id_majelis` = `program_kerja`.`id_majelis`
+ORDER BY `program_kerja`.`id_program` DESC')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1655): CodeIgniter\Database\BaseConnection->query('SELECT `program_kerja`.*, `majelis`.`nama_majelis`
+FROM `program_kerja`
+LEFT JOIN `majelis` ON `majelis`.`id_majelis` = `program_kerja`.`id_majelis`
+ORDER BY `program_kerja`.`id_program` DESC', [], false)
+ 5 SYSTEMPATH\Model.php(255): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\Admin\Profil.php(399): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Admin\Profil->programKerja()
+ 9 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Profil))
+10 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-08 09:11:06 --> CodeIgniter\Database\Exceptions\DatabaseException: Table 'db_pwmuhammadiyah.majelis' doesn't exist
+[Method: GET, Route: admin/profil/program-kerja]
+in SYSTEMPATH\Database\BaseConnection.php on line 863.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1655): CodeIgniter\Database\BaseConnection->query('SELECT `program_kerja`.*, `majelis`.`nama_majelis`
+FROM `program_kerja`
+LEFT JOIN `majelis` ON `majelis`.`id_majelis` = `program_kerja`.`id_majelis`
+ORDER BY `program_kerja`.`id_program` DESC', [], false)
+ 2 SYSTEMPATH\Model.php(255): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\Admin\Profil.php(399): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Admin\Profil->programKerja()
+ 6 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Profil))
+ 7 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-08 09:11:06 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Table 'db_pwmuhammadiyah.majelis' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 310.
+ 1 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `program_kerja`.*, `majelis`.`nama_majelis`
+FROM `program_kerja`
+LEFT JOIN `majelis` ON `majelis`.`id_majelis` = `program_kerja`.`id_majelis`
+ORDER BY `program_kerja`.`id_program` DESC')
+ 2 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `program_kerja`.*, `majelis`.`nama_majelis`
+FROM `program_kerja`
+LEFT JOIN `majelis` ON `majelis`.`id_majelis` = `program_kerja`.`id_majelis`
+ORDER BY `program_kerja`.`id_program` DESC')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1655): CodeIgniter\Database\BaseConnection->query('SELECT `program_kerja`.*, `majelis`.`nama_majelis`
+FROM `program_kerja`
+LEFT JOIN `majelis` ON `majelis`.`id_majelis` = `program_kerja`.`id_majelis`
+ORDER BY `program_kerja`.`id_program` DESC', [], false)
+ 4 SYSTEMPATH\Model.php(255): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\Admin\Profil.php(399): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Admin\Profil->programKerja()
+ 8 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Profil))
+ 9 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-08 09:11:06 --> [Caused by] mysqli_sql_exception: Table 'db_pwmuhammadiyah.majelis' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 300.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(300): mysqli->query('SELECT `program_kerja`.*, `majelis`.`nama_majelis`
+FROM `program_kerja`
+LEFT JOIN `majelis` ON `majelis`.`id_majelis` = `program_kerja`.`id_majelis`
+ORDER BY `program_kerja`.`id_program` DESC', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `program_kerja`.*, `majelis`.`nama_majelis`
+FROM `program_kerja`
+LEFT JOIN `majelis` ON `majelis`.`id_majelis` = `program_kerja`.`id_majelis`
+ORDER BY `program_kerja`.`id_program` DESC')
+ 3 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `program_kerja`.*, `majelis`.`nama_majelis`
+FROM `program_kerja`
+LEFT JOIN `majelis` ON `majelis`.`id_majelis` = `program_kerja`.`id_majelis`
+ORDER BY `program_kerja`.`id_program` DESC')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1655): CodeIgniter\Database\BaseConnection->query('SELECT `program_kerja`.*, `majelis`.`nama_majelis`
+FROM `program_kerja`
+LEFT JOIN `majelis` ON `majelis`.`id_majelis` = `program_kerja`.`id_majelis`
+ORDER BY `program_kerja`.`id_program` DESC', [], false)
+ 5 SYSTEMPATH\Model.php(255): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(676): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\Admin\Profil.php(399): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Admin\Profil->programKerja()
+ 9 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Profil))
+10 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-08-08 09:15:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2026-08-08 09:16:51 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pages/profil/ortom.php"
+[Method: GET, Route: ortom]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/profil/ortom.php')
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('pages/profil/ortom', [], true)
+ 3 APPPATH\Controllers\Home.php(373): view('pages/profil/ortom', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->ortom()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-08-08 09:26:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 09:48:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 09:48:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 09:48:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2026-08-08 09:50:59 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pages/profil/ortom.php"
+[Method: GET, Route: ortom]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/profil/ortom.php')
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('pages/profil/ortom', [], true)
+ 3 APPPATH\Controllers\Home.php(373): view('pages/profil/ortom', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->ortom()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-08-08 09:54:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 09:56:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 09:56:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 09:56:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 09:56:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 09:57:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 09:57:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 09:58:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 09:58:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 09:59:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 09:59:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-08-08 09:59:24 --> Unknown column 'updated_at' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 300.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(300): mysqli->query('UPDATE `organisasi_otonom` SET `nama_ortom` = \'Ikatan Pelajar Muhammadiyah\', `ketua` = \'FIlda Adelia\', `sekretaris` = \'Agus Hermawan\', `deskripsi` = \'Berdirinya Ikatan Pelajar Muhammadiyah (IPM) tidak lepas dari latar belakang berdirinya Muhammadiyah sebagai gerakan dakwah Islam amar ma’ruf nahi munkar sekaligus sebagai konsekuensi dari banyaknya sekolah yang merupakan amal usaha Muhammadiyah untuk membina dan mendidik kader.\', `logo` = \'1785852574_5e3c6f939f4187b7279f.png\', `updated_at` = \'2026-08-08 09:59:24\'
+WHERE `organisasi_otonom`.`id_ortom` IN (\'2\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `organisasi_otonom` SET `nama_ortom` = \'Ikatan Pelajar Muhammadiyah\', `ketua` = \'FIlda Adelia\', `sekretaris` = \'Agus Hermawan\', `deskripsi` = \'Berdirinya Ikatan Pelajar Muhammadiyah (IPM) tidak lepas dari latar belakang berdirinya Muhammadiyah sebagai gerakan dakwah Islam amar ma’ruf nahi munkar sekaligus sebagai konsekuensi dari banyaknya sekolah yang merupakan amal usaha Muhammadiyah untuk membina dan mendidik kader.\', `logo` = \'1785852574_5e3c6f939f4187b7279f.png\', `updated_at` = \'2026-08-08 09:59:24\'
+WHERE `organisasi_otonom`.`id_ortom` IN (\'2\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `organisasi_otonom` SET `nama_ortom` = \'Ikatan Pelajar Muhammadiyah\', `ketua` = \'FIlda Adelia\', `sekretaris` = \'Agus Hermawan\', `deskripsi` = \'Berdirinya Ikatan Pelajar Muhammadiyah (IPM) tidak lepas dari latar belakang berdirinya Muhammadiyah sebagai gerakan dakwah Islam amar ma’ruf nahi munkar sekaligus sebagai konsekuensi dari banyaknya sekolah yang merupakan amal usaha Muhammadiyah untuk membina dan mendidik kader.\', `logo` = \'1785852574_5e3c6f939f4187b7279f.png\', `updated_at` = \'2026-08-08 09:59:24\'
+WHERE `organisasi_otonom`.`id_ortom` IN (\'2\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2527): CodeIgniter\Database\BaseConnection->query('UPDATE `organisasi_otonom` SET `nama_ortom` = :nama_ortom:, `ketua` = :ketua:, `sekretaris` = :sekretaris:, `deskripsi` = :deskripsi:, `logo` = :logo:, `updated_at` = :updated_at:
+WHERE `organisasi_otonom`.`id_ortom` IN :organisasi_otonom.id_ortom:', [...], false)
+ 5 SYSTEMPATH\Model.php(408): CodeIgniter\Database\BaseBuilder->update()
+ 6 SYSTEMPATH\BaseModel.php(1074): CodeIgniter\Model->doUpdate([...], [...])
+ 7 SYSTEMPATH\Model.php(711): CodeIgniter\BaseModel->update([...], [...])
+ 8 APPPATH\Controllers\Admin\Ortom.php(76): CodeIgniter\Model->update('2', [...])
+ 9 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Admin\Ortom->update('2')
+10 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Ortom))
+11 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-08 09:59:24 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'updated_at' in 'field list'
+[Method: POST, Route: admin/ortom/update/2]
+in SYSTEMPATH\Database\BaseConnection.php on line 863.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2527): CodeIgniter\Database\BaseConnection->query('UPDATE `organisasi_otonom` SET `nama_ortom` = :nama_ortom:, `ketua` = :ketua:, `sekretaris` = :sekretaris:, `deskripsi` = :deskripsi:, `logo` = :logo:, `updated_at` = :updated_at:
+WHERE `organisasi_otonom`.`id_ortom` IN :organisasi_otonom.id_ortom:', [...], false)
+ 2 SYSTEMPATH\Model.php(408): CodeIgniter\Database\BaseBuilder->update()
+ 3 SYSTEMPATH\BaseModel.php(1074): CodeIgniter\Model->doUpdate([...], [...])
+ 4 SYSTEMPATH\Model.php(711): CodeIgniter\BaseModel->update([...], [...])
+ 5 APPPATH\Controllers\Admin\Ortom.php(76): CodeIgniter\Model->update('2', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Admin\Ortom->update('2')
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Ortom))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-08 09:59:24 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'updated_at' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 310.
+ 1 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `organisasi_otonom` SET `nama_ortom` = \'Ikatan Pelajar Muhammadiyah\', `ketua` = \'FIlda Adelia\', `sekretaris` = \'Agus Hermawan\', `deskripsi` = \'Berdirinya Ikatan Pelajar Muhammadiyah (IPM) tidak lepas dari latar belakang berdirinya Muhammadiyah sebagai gerakan dakwah Islam amar ma’ruf nahi munkar sekaligus sebagai konsekuensi dari banyaknya sekolah yang merupakan amal usaha Muhammadiyah untuk membina dan mendidik kader.\', `logo` = \'1785852574_5e3c6f939f4187b7279f.png\', `updated_at` = \'2026-08-08 09:59:24\'
+WHERE `organisasi_otonom`.`id_ortom` IN (\'2\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `organisasi_otonom` SET `nama_ortom` = \'Ikatan Pelajar Muhammadiyah\', `ketua` = \'FIlda Adelia\', `sekretaris` = \'Agus Hermawan\', `deskripsi` = \'Berdirinya Ikatan Pelajar Muhammadiyah (IPM) tidak lepas dari latar belakang berdirinya Muhammadiyah sebagai gerakan dakwah Islam amar ma’ruf nahi munkar sekaligus sebagai konsekuensi dari banyaknya sekolah yang merupakan amal usaha Muhammadiyah untuk membina dan mendidik kader.\', `logo` = \'1785852574_5e3c6f939f4187b7279f.png\', `updated_at` = \'2026-08-08 09:59:24\'
+WHERE `organisasi_otonom`.`id_ortom` IN (\'2\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2527): CodeIgniter\Database\BaseConnection->query('UPDATE `organisasi_otonom` SET `nama_ortom` = :nama_ortom:, `ketua` = :ketua:, `sekretaris` = :sekretaris:, `deskripsi` = :deskripsi:, `logo` = :logo:, `updated_at` = :updated_at:
+WHERE `organisasi_otonom`.`id_ortom` IN :organisasi_otonom.id_ortom:', [...], false)
+ 4 SYSTEMPATH\Model.php(408): CodeIgniter\Database\BaseBuilder->update()
+ 5 SYSTEMPATH\BaseModel.php(1074): CodeIgniter\Model->doUpdate([...], [...])
+ 6 SYSTEMPATH\Model.php(711): CodeIgniter\BaseModel->update([...], [...])
+ 7 APPPATH\Controllers\Admin\Ortom.php(76): CodeIgniter\Model->update('2', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Admin\Ortom->update('2')
+ 9 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Ortom))
+10 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-08 09:59:24 --> [Caused by] mysqli_sql_exception: Unknown column 'updated_at' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 300.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(300): mysqli->query('UPDATE `organisasi_otonom` SET `nama_ortom` = \'Ikatan Pelajar Muhammadiyah\', `ketua` = \'FIlda Adelia\', `sekretaris` = \'Agus Hermawan\', `deskripsi` = \'Berdirinya Ikatan Pelajar Muhammadiyah (IPM) tidak lepas dari latar belakang berdirinya Muhammadiyah sebagai gerakan dakwah Islam amar ma’ruf nahi munkar sekaligus sebagai konsekuensi dari banyaknya sekolah yang merupakan amal usaha Muhammadiyah untuk membina dan mendidik kader.\', `logo` = \'1785852574_5e3c6f939f4187b7279f.png\', `updated_at` = \'2026-08-08 09:59:24\'
+WHERE `organisasi_otonom`.`id_ortom` IN (\'2\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `organisasi_otonom` SET `nama_ortom` = \'Ikatan Pelajar Muhammadiyah\', `ketua` = \'FIlda Adelia\', `sekretaris` = \'Agus Hermawan\', `deskripsi` = \'Berdirinya Ikatan Pelajar Muhammadiyah (IPM) tidak lepas dari latar belakang berdirinya Muhammadiyah sebagai gerakan dakwah Islam amar ma’ruf nahi munkar sekaligus sebagai konsekuensi dari banyaknya sekolah yang merupakan amal usaha Muhammadiyah untuk membina dan mendidik kader.\', `logo` = \'1785852574_5e3c6f939f4187b7279f.png\', `updated_at` = \'2026-08-08 09:59:24\'
+WHERE `organisasi_otonom`.`id_ortom` IN (\'2\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `organisasi_otonom` SET `nama_ortom` = \'Ikatan Pelajar Muhammadiyah\', `ketua` = \'FIlda Adelia\', `sekretaris` = \'Agus Hermawan\', `deskripsi` = \'Berdirinya Ikatan Pelajar Muhammadiyah (IPM) tidak lepas dari latar belakang berdirinya Muhammadiyah sebagai gerakan dakwah Islam amar ma’ruf nahi munkar sekaligus sebagai konsekuensi dari banyaknya sekolah yang merupakan amal usaha Muhammadiyah untuk membina dan mendidik kader.\', `logo` = \'1785852574_5e3c6f939f4187b7279f.png\', `updated_at` = \'2026-08-08 09:59:24\'
+WHERE `organisasi_otonom`.`id_ortom` IN (\'2\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2527): CodeIgniter\Database\BaseConnection->query('UPDATE `organisasi_otonom` SET `nama_ortom` = :nama_ortom:, `ketua` = :ketua:, `sekretaris` = :sekretaris:, `deskripsi` = :deskripsi:, `logo` = :logo:, `updated_at` = :updated_at:
+WHERE `organisasi_otonom`.`id_ortom` IN :organisasi_otonom.id_ortom:', [...], false)
+ 5 SYSTEMPATH\Model.php(408): CodeIgniter\Database\BaseBuilder->update()
+ 6 SYSTEMPATH\BaseModel.php(1074): CodeIgniter\Model->doUpdate([...], [...])
+ 7 SYSTEMPATH\Model.php(711): CodeIgniter\BaseModel->update([...], [...])
+ 8 APPPATH\Controllers\Admin\Ortom.php(76): CodeIgniter\Model->update('2', [...])
+ 9 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Admin\Ortom->update('2')
+10 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Ortom))
+11 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2026-08-08 10:03:19 --> Unknown column 'updated_at' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 300.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(300): mysqli->query('UPDATE `organisasi_otonom` SET `nama_ortom` = \'Ikatan Pelajar Muhammadiyah\', `ketua` = \'FIlda Adelia\', `sekretaris` = \'Agus Hermawan\', `bendahara` = \'Basri\', `deskripsi` = \'Berdirinya Ikatan Pelajar Muhammadiyah (IPM) tidak lepas dari latar belakang berdirinya Muhammadiyah sebagai gerakan dakwah Islam amar ma’ruf nahi munkar sekaligus sebagai konsekuensi dari banyaknya sekolah yang merupakan amal usaha Muhammadiyah untuk membina dan mendidik kader.\', `logo` = \'1785852574_5e3c6f939f4187b7279f.png\', `updated_at` = \'2026-08-08 10:03:19\'
+WHERE `organisasi_otonom`.`id_ortom` IN (\'2\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `organisasi_otonom` SET `nama_ortom` = \'Ikatan Pelajar Muhammadiyah\', `ketua` = \'FIlda Adelia\', `sekretaris` = \'Agus Hermawan\', `bendahara` = \'Basri\', `deskripsi` = \'Berdirinya Ikatan Pelajar Muhammadiyah (IPM) tidak lepas dari latar belakang berdirinya Muhammadiyah sebagai gerakan dakwah Islam amar ma’ruf nahi munkar sekaligus sebagai konsekuensi dari banyaknya sekolah yang merupakan amal usaha Muhammadiyah untuk membina dan mendidik kader.\', `logo` = \'1785852574_5e3c6f939f4187b7279f.png\', `updated_at` = \'2026-08-08 10:03:19\'
+WHERE `organisasi_otonom`.`id_ortom` IN (\'2\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `organisasi_otonom` SET `nama_ortom` = \'Ikatan Pelajar Muhammadiyah\', `ketua` = \'FIlda Adelia\', `sekretaris` = \'Agus Hermawan\', `bendahara` = \'Basri\', `deskripsi` = \'Berdirinya Ikatan Pelajar Muhammadiyah (IPM) tidak lepas dari latar belakang berdirinya Muhammadiyah sebagai gerakan dakwah Islam amar ma’ruf nahi munkar sekaligus sebagai konsekuensi dari banyaknya sekolah yang merupakan amal usaha Muhammadiyah untuk membina dan mendidik kader.\', `logo` = \'1785852574_5e3c6f939f4187b7279f.png\', `updated_at` = \'2026-08-08 10:03:19\'
+WHERE `organisasi_otonom`.`id_ortom` IN (\'2\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2527): CodeIgniter\Database\BaseConnection->query('UPDATE `organisasi_otonom` SET `nama_ortom` = :nama_ortom:, `ketua` = :ketua:, `sekretaris` = :sekretaris:, `bendahara` = :bendahara:, `deskripsi` = :deskripsi:, `logo` = :logo:, `updated_at` = :updated_at:
+WHERE `organisasi_otonom`.`id_ortom` IN :organisasi_otonom.id_ortom:', [...], false)
+ 5 SYSTEMPATH\Model.php(408): CodeIgniter\Database\BaseBuilder->update()
+ 6 SYSTEMPATH\BaseModel.php(1074): CodeIgniter\Model->doUpdate([...], [...])
+ 7 SYSTEMPATH\Model.php(711): CodeIgniter\BaseModel->update([...], [...])
+ 8 APPPATH\Controllers\Admin\Ortom.php(77): CodeIgniter\Model->update('2', [...])
+ 9 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Admin\Ortom->update('2')
+10 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Ortom))
+11 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-08 10:03:19 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'updated_at' in 'field list'
+[Method: POST, Route: admin/ortom/update/2]
+in SYSTEMPATH\Database\BaseConnection.php on line 863.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2527): CodeIgniter\Database\BaseConnection->query('UPDATE `organisasi_otonom` SET `nama_ortom` = :nama_ortom:, `ketua` = :ketua:, `sekretaris` = :sekretaris:, `bendahara` = :bendahara:, `deskripsi` = :deskripsi:, `logo` = :logo:, `updated_at` = :updated_at:
+WHERE `organisasi_otonom`.`id_ortom` IN :organisasi_otonom.id_ortom:', [...], false)
+ 2 SYSTEMPATH\Model.php(408): CodeIgniter\Database\BaseBuilder->update()
+ 3 SYSTEMPATH\BaseModel.php(1074): CodeIgniter\Model->doUpdate([...], [...])
+ 4 SYSTEMPATH\Model.php(711): CodeIgniter\BaseModel->update([...], [...])
+ 5 APPPATH\Controllers\Admin\Ortom.php(77): CodeIgniter\Model->update('2', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Admin\Ortom->update('2')
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Ortom))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-08 10:03:19 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'updated_at' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 310.
+ 1 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `organisasi_otonom` SET `nama_ortom` = \'Ikatan Pelajar Muhammadiyah\', `ketua` = \'FIlda Adelia\', `sekretaris` = \'Agus Hermawan\', `bendahara` = \'Basri\', `deskripsi` = \'Berdirinya Ikatan Pelajar Muhammadiyah (IPM) tidak lepas dari latar belakang berdirinya Muhammadiyah sebagai gerakan dakwah Islam amar ma’ruf nahi munkar sekaligus sebagai konsekuensi dari banyaknya sekolah yang merupakan amal usaha Muhammadiyah untuk membina dan mendidik kader.\', `logo` = \'1785852574_5e3c6f939f4187b7279f.png\', `updated_at` = \'2026-08-08 10:03:19\'
+WHERE `organisasi_otonom`.`id_ortom` IN (\'2\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `organisasi_otonom` SET `nama_ortom` = \'Ikatan Pelajar Muhammadiyah\', `ketua` = \'FIlda Adelia\', `sekretaris` = \'Agus Hermawan\', `bendahara` = \'Basri\', `deskripsi` = \'Berdirinya Ikatan Pelajar Muhammadiyah (IPM) tidak lepas dari latar belakang berdirinya Muhammadiyah sebagai gerakan dakwah Islam amar ma’ruf nahi munkar sekaligus sebagai konsekuensi dari banyaknya sekolah yang merupakan amal usaha Muhammadiyah untuk membina dan mendidik kader.\', `logo` = \'1785852574_5e3c6f939f4187b7279f.png\', `updated_at` = \'2026-08-08 10:03:19\'
+WHERE `organisasi_otonom`.`id_ortom` IN (\'2\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2527): CodeIgniter\Database\BaseConnection->query('UPDATE `organisasi_otonom` SET `nama_ortom` = :nama_ortom:, `ketua` = :ketua:, `sekretaris` = :sekretaris:, `bendahara` = :bendahara:, `deskripsi` = :deskripsi:, `logo` = :logo:, `updated_at` = :updated_at:
+WHERE `organisasi_otonom`.`id_ortom` IN :organisasi_otonom.id_ortom:', [...], false)
+ 4 SYSTEMPATH\Model.php(408): CodeIgniter\Database\BaseBuilder->update()
+ 5 SYSTEMPATH\BaseModel.php(1074): CodeIgniter\Model->doUpdate([...], [...])
+ 6 SYSTEMPATH\Model.php(711): CodeIgniter\BaseModel->update([...], [...])
+ 7 APPPATH\Controllers\Admin\Ortom.php(77): CodeIgniter\Model->update('2', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Admin\Ortom->update('2')
+ 9 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Ortom))
+10 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-08 10:03:19 --> [Caused by] mysqli_sql_exception: Unknown column 'updated_at' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 300.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(300): mysqli->query('UPDATE `organisasi_otonom` SET `nama_ortom` = \'Ikatan Pelajar Muhammadiyah\', `ketua` = \'FIlda Adelia\', `sekretaris` = \'Agus Hermawan\', `bendahara` = \'Basri\', `deskripsi` = \'Berdirinya Ikatan Pelajar Muhammadiyah (IPM) tidak lepas dari latar belakang berdirinya Muhammadiyah sebagai gerakan dakwah Islam amar ma’ruf nahi munkar sekaligus sebagai konsekuensi dari banyaknya sekolah yang merupakan amal usaha Muhammadiyah untuk membina dan mendidik kader.\', `logo` = \'1785852574_5e3c6f939f4187b7279f.png\', `updated_at` = \'2026-08-08 10:03:19\'
+WHERE `organisasi_otonom`.`id_ortom` IN (\'2\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `organisasi_otonom` SET `nama_ortom` = \'Ikatan Pelajar Muhammadiyah\', `ketua` = \'FIlda Adelia\', `sekretaris` = \'Agus Hermawan\', `bendahara` = \'Basri\', `deskripsi` = \'Berdirinya Ikatan Pelajar Muhammadiyah (IPM) tidak lepas dari latar belakang berdirinya Muhammadiyah sebagai gerakan dakwah Islam amar ma’ruf nahi munkar sekaligus sebagai konsekuensi dari banyaknya sekolah yang merupakan amal usaha Muhammadiyah untuk membina dan mendidik kader.\', `logo` = \'1785852574_5e3c6f939f4187b7279f.png\', `updated_at` = \'2026-08-08 10:03:19\'
+WHERE `organisasi_otonom`.`id_ortom` IN (\'2\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `organisasi_otonom` SET `nama_ortom` = \'Ikatan Pelajar Muhammadiyah\', `ketua` = \'FIlda Adelia\', `sekretaris` = \'Agus Hermawan\', `bendahara` = \'Basri\', `deskripsi` = \'Berdirinya Ikatan Pelajar Muhammadiyah (IPM) tidak lepas dari latar belakang berdirinya Muhammadiyah sebagai gerakan dakwah Islam amar ma’ruf nahi munkar sekaligus sebagai konsekuensi dari banyaknya sekolah yang merupakan amal usaha Muhammadiyah untuk membina dan mendidik kader.\', `logo` = \'1785852574_5e3c6f939f4187b7279f.png\', `updated_at` = \'2026-08-08 10:03:19\'
+WHERE `organisasi_otonom`.`id_ortom` IN (\'2\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2527): CodeIgniter\Database\BaseConnection->query('UPDATE `organisasi_otonom` SET `nama_ortom` = :nama_ortom:, `ketua` = :ketua:, `sekretaris` = :sekretaris:, `bendahara` = :bendahara:, `deskripsi` = :deskripsi:, `logo` = :logo:, `updated_at` = :updated_at:
+WHERE `organisasi_otonom`.`id_ortom` IN :organisasi_otonom.id_ortom:', [...], false)
+ 5 SYSTEMPATH\Model.php(408): CodeIgniter\Database\BaseBuilder->update()
+ 6 SYSTEMPATH\BaseModel.php(1074): CodeIgniter\Model->doUpdate([...], [...])
+ 7 SYSTEMPATH\Model.php(711): CodeIgniter\BaseModel->update([...], [...])
+ 8 APPPATH\Controllers\Admin\Ortom.php(77): CodeIgniter\Model->update('2', [...])
+ 9 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Admin\Ortom->update('2')
+10 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Ortom))
+11 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-08-08 10:03:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-08-08 10:03:33 --> Unknown column 'updated_at' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 300.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(300): mysqli->query('UPDATE `organisasi_otonom` SET `nama_ortom` = \'Ikatan Pelajar Muhammadiyah\', `ketua` = \'FIlda Adelia\', `sekretaris` = \'Agus Hermawan\', `bendahara` = \'Basri\', `deskripsi` = \'Berdirinya Ikatan Pelajar Muhammadiyah (IPM) tidak lepas dari latar belakang berdirinya Muhammadiyah sebagai gerakan dakwah Islam amar ma’ruf nahi munkar sekaligus sebagai konsekuensi dari banyaknya sekolah yang merupakan amal usaha Muhammadiyah untuk membina dan mendidik kader.\', `logo` = \'1785852574_5e3c6f939f4187b7279f.png\', `updated_at` = \'2026-08-08 10:03:33\'
+WHERE `organisasi_otonom`.`id_ortom` IN (\'2\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `organisasi_otonom` SET `nama_ortom` = \'Ikatan Pelajar Muhammadiyah\', `ketua` = \'FIlda Adelia\', `sekretaris` = \'Agus Hermawan\', `bendahara` = \'Basri\', `deskripsi` = \'Berdirinya Ikatan Pelajar Muhammadiyah (IPM) tidak lepas dari latar belakang berdirinya Muhammadiyah sebagai gerakan dakwah Islam amar ma’ruf nahi munkar sekaligus sebagai konsekuensi dari banyaknya sekolah yang merupakan amal usaha Muhammadiyah untuk membina dan mendidik kader.\', `logo` = \'1785852574_5e3c6f939f4187b7279f.png\', `updated_at` = \'2026-08-08 10:03:33\'
+WHERE `organisasi_otonom`.`id_ortom` IN (\'2\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `organisasi_otonom` SET `nama_ortom` = \'Ikatan Pelajar Muhammadiyah\', `ketua` = \'FIlda Adelia\', `sekretaris` = \'Agus Hermawan\', `bendahara` = \'Basri\', `deskripsi` = \'Berdirinya Ikatan Pelajar Muhammadiyah (IPM) tidak lepas dari latar belakang berdirinya Muhammadiyah sebagai gerakan dakwah Islam amar ma’ruf nahi munkar sekaligus sebagai konsekuensi dari banyaknya sekolah yang merupakan amal usaha Muhammadiyah untuk membina dan mendidik kader.\', `logo` = \'1785852574_5e3c6f939f4187b7279f.png\', `updated_at` = \'2026-08-08 10:03:33\'
+WHERE `organisasi_otonom`.`id_ortom` IN (\'2\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2527): CodeIgniter\Database\BaseConnection->query('UPDATE `organisasi_otonom` SET `nama_ortom` = :nama_ortom:, `ketua` = :ketua:, `sekretaris` = :sekretaris:, `bendahara` = :bendahara:, `deskripsi` = :deskripsi:, `logo` = :logo:, `updated_at` = :updated_at:
+WHERE `organisasi_otonom`.`id_ortom` IN :organisasi_otonom.id_ortom:', [...], false)
+ 5 SYSTEMPATH\Model.php(408): CodeIgniter\Database\BaseBuilder->update()
+ 6 SYSTEMPATH\BaseModel.php(1074): CodeIgniter\Model->doUpdate([...], [...])
+ 7 SYSTEMPATH\Model.php(711): CodeIgniter\BaseModel->update([...], [...])
+ 8 APPPATH\Controllers\Admin\Ortom.php(77): CodeIgniter\Model->update('2', [...])
+ 9 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Admin\Ortom->update('2')
+10 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Ortom))
+11 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-08 10:03:33 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'updated_at' in 'field list'
+[Method: POST, Route: admin/ortom/update/2]
+in SYSTEMPATH\Database\BaseConnection.php on line 863.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2527): CodeIgniter\Database\BaseConnection->query('UPDATE `organisasi_otonom` SET `nama_ortom` = :nama_ortom:, `ketua` = :ketua:, `sekretaris` = :sekretaris:, `bendahara` = :bendahara:, `deskripsi` = :deskripsi:, `logo` = :logo:, `updated_at` = :updated_at:
+WHERE `organisasi_otonom`.`id_ortom` IN :organisasi_otonom.id_ortom:', [...], false)
+ 2 SYSTEMPATH\Model.php(408): CodeIgniter\Database\BaseBuilder->update()
+ 3 SYSTEMPATH\BaseModel.php(1074): CodeIgniter\Model->doUpdate([...], [...])
+ 4 SYSTEMPATH\Model.php(711): CodeIgniter\BaseModel->update([...], [...])
+ 5 APPPATH\Controllers\Admin\Ortom.php(77): CodeIgniter\Model->update('2', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Admin\Ortom->update('2')
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Ortom))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-08 10:03:33 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'updated_at' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 310.
+ 1 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `organisasi_otonom` SET `nama_ortom` = \'Ikatan Pelajar Muhammadiyah\', `ketua` = \'FIlda Adelia\', `sekretaris` = \'Agus Hermawan\', `bendahara` = \'Basri\', `deskripsi` = \'Berdirinya Ikatan Pelajar Muhammadiyah (IPM) tidak lepas dari latar belakang berdirinya Muhammadiyah sebagai gerakan dakwah Islam amar ma’ruf nahi munkar sekaligus sebagai konsekuensi dari banyaknya sekolah yang merupakan amal usaha Muhammadiyah untuk membina dan mendidik kader.\', `logo` = \'1785852574_5e3c6f939f4187b7279f.png\', `updated_at` = \'2026-08-08 10:03:33\'
+WHERE `organisasi_otonom`.`id_ortom` IN (\'2\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `organisasi_otonom` SET `nama_ortom` = \'Ikatan Pelajar Muhammadiyah\', `ketua` = \'FIlda Adelia\', `sekretaris` = \'Agus Hermawan\', `bendahara` = \'Basri\', `deskripsi` = \'Berdirinya Ikatan Pelajar Muhammadiyah (IPM) tidak lepas dari latar belakang berdirinya Muhammadiyah sebagai gerakan dakwah Islam amar ma’ruf nahi munkar sekaligus sebagai konsekuensi dari banyaknya sekolah yang merupakan amal usaha Muhammadiyah untuk membina dan mendidik kader.\', `logo` = \'1785852574_5e3c6f939f4187b7279f.png\', `updated_at` = \'2026-08-08 10:03:33\'
+WHERE `organisasi_otonom`.`id_ortom` IN (\'2\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2527): CodeIgniter\Database\BaseConnection->query('UPDATE `organisasi_otonom` SET `nama_ortom` = :nama_ortom:, `ketua` = :ketua:, `sekretaris` = :sekretaris:, `bendahara` = :bendahara:, `deskripsi` = :deskripsi:, `logo` = :logo:, `updated_at` = :updated_at:
+WHERE `organisasi_otonom`.`id_ortom` IN :organisasi_otonom.id_ortom:', [...], false)
+ 4 SYSTEMPATH\Model.php(408): CodeIgniter\Database\BaseBuilder->update()
+ 5 SYSTEMPATH\BaseModel.php(1074): CodeIgniter\Model->doUpdate([...], [...])
+ 6 SYSTEMPATH\Model.php(711): CodeIgniter\BaseModel->update([...], [...])
+ 7 APPPATH\Controllers\Admin\Ortom.php(77): CodeIgniter\Model->update('2', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Admin\Ortom->update('2')
+ 9 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Ortom))
+10 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-08 10:03:33 --> [Caused by] mysqli_sql_exception: Unknown column 'updated_at' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 300.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(300): mysqli->query('UPDATE `organisasi_otonom` SET `nama_ortom` = \'Ikatan Pelajar Muhammadiyah\', `ketua` = \'FIlda Adelia\', `sekretaris` = \'Agus Hermawan\', `bendahara` = \'Basri\', `deskripsi` = \'Berdirinya Ikatan Pelajar Muhammadiyah (IPM) tidak lepas dari latar belakang berdirinya Muhammadiyah sebagai gerakan dakwah Islam amar ma’ruf nahi munkar sekaligus sebagai konsekuensi dari banyaknya sekolah yang merupakan amal usaha Muhammadiyah untuk membina dan mendidik kader.\', `logo` = \'1785852574_5e3c6f939f4187b7279f.png\', `updated_at` = \'2026-08-08 10:03:33\'
+WHERE `organisasi_otonom`.`id_ortom` IN (\'2\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `organisasi_otonom` SET `nama_ortom` = \'Ikatan Pelajar Muhammadiyah\', `ketua` = \'FIlda Adelia\', `sekretaris` = \'Agus Hermawan\', `bendahara` = \'Basri\', `deskripsi` = \'Berdirinya Ikatan Pelajar Muhammadiyah (IPM) tidak lepas dari latar belakang berdirinya Muhammadiyah sebagai gerakan dakwah Islam amar ma’ruf nahi munkar sekaligus sebagai konsekuensi dari banyaknya sekolah yang merupakan amal usaha Muhammadiyah untuk membina dan mendidik kader.\', `logo` = \'1785852574_5e3c6f939f4187b7279f.png\', `updated_at` = \'2026-08-08 10:03:33\'
+WHERE `organisasi_otonom`.`id_ortom` IN (\'2\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `organisasi_otonom` SET `nama_ortom` = \'Ikatan Pelajar Muhammadiyah\', `ketua` = \'FIlda Adelia\', `sekretaris` = \'Agus Hermawan\', `bendahara` = \'Basri\', `deskripsi` = \'Berdirinya Ikatan Pelajar Muhammadiyah (IPM) tidak lepas dari latar belakang berdirinya Muhammadiyah sebagai gerakan dakwah Islam amar ma’ruf nahi munkar sekaligus sebagai konsekuensi dari banyaknya sekolah yang merupakan amal usaha Muhammadiyah untuk membina dan mendidik kader.\', `logo` = \'1785852574_5e3c6f939f4187b7279f.png\', `updated_at` = \'2026-08-08 10:03:33\'
+WHERE `organisasi_otonom`.`id_ortom` IN (\'2\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2527): CodeIgniter\Database\BaseConnection->query('UPDATE `organisasi_otonom` SET `nama_ortom` = :nama_ortom:, `ketua` = :ketua:, `sekretaris` = :sekretaris:, `bendahara` = :bendahara:, `deskripsi` = :deskripsi:, `logo` = :logo:, `updated_at` = :updated_at:
+WHERE `organisasi_otonom`.`id_ortom` IN :organisasi_otonom.id_ortom:', [...], false)
+ 5 SYSTEMPATH\Model.php(408): CodeIgniter\Database\BaseBuilder->update()
+ 6 SYSTEMPATH\BaseModel.php(1074): CodeIgniter\Model->doUpdate([...], [...])
+ 7 SYSTEMPATH\Model.php(711): CodeIgniter\BaseModel->update([...], [...])
+ 8 APPPATH\Controllers\Admin\Ortom.php(77): CodeIgniter\Model->update('2', [...])
+ 9 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Admin\Ortom->update('2')
+10 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Ortom))
+11 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2026-08-08 10:06:33 --> Unknown column 'updated_at' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 300.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(300): mysqli->query('UPDATE `organisasi_otonom` SET `nama_ortom` = \'Ikatan Pelajar Muhammadiyah\', `ketua` = \'FIlda Adelia\', `sekretaris` = \'Agus Hermawan\', `bendahara` = \'Basri\', `deskripsi` = \'Berdirinya Ikatan Pelajar Muhammadiyah (IPM) tidak lepas dari latar belakang berdirinya Muhammadiyah sebagai gerakan dakwah Islam amar ma’ruf nahi munkar sekaligus sebagai konsekuensi dari banyaknya sekolah yang merupakan amal usaha Muhammadiyah untuk membina dan mendidik kader.\', `logo` = \'1785852574_5e3c6f939f4187b7279f.png\', `updated_at` = \'2026-08-08 10:06:33\'
+WHERE `organisasi_otonom`.`id_ortom` IN (\'2\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `organisasi_otonom` SET `nama_ortom` = \'Ikatan Pelajar Muhammadiyah\', `ketua` = \'FIlda Adelia\', `sekretaris` = \'Agus Hermawan\', `bendahara` = \'Basri\', `deskripsi` = \'Berdirinya Ikatan Pelajar Muhammadiyah (IPM) tidak lepas dari latar belakang berdirinya Muhammadiyah sebagai gerakan dakwah Islam amar ma’ruf nahi munkar sekaligus sebagai konsekuensi dari banyaknya sekolah yang merupakan amal usaha Muhammadiyah untuk membina dan mendidik kader.\', `logo` = \'1785852574_5e3c6f939f4187b7279f.png\', `updated_at` = \'2026-08-08 10:06:33\'
+WHERE `organisasi_otonom`.`id_ortom` IN (\'2\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `organisasi_otonom` SET `nama_ortom` = \'Ikatan Pelajar Muhammadiyah\', `ketua` = \'FIlda Adelia\', `sekretaris` = \'Agus Hermawan\', `bendahara` = \'Basri\', `deskripsi` = \'Berdirinya Ikatan Pelajar Muhammadiyah (IPM) tidak lepas dari latar belakang berdirinya Muhammadiyah sebagai gerakan dakwah Islam amar ma’ruf nahi munkar sekaligus sebagai konsekuensi dari banyaknya sekolah yang merupakan amal usaha Muhammadiyah untuk membina dan mendidik kader.\', `logo` = \'1785852574_5e3c6f939f4187b7279f.png\', `updated_at` = \'2026-08-08 10:06:33\'
+WHERE `organisasi_otonom`.`id_ortom` IN (\'2\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2527): CodeIgniter\Database\BaseConnection->query('UPDATE `organisasi_otonom` SET `nama_ortom` = :nama_ortom:, `ketua` = :ketua:, `sekretaris` = :sekretaris:, `bendahara` = :bendahara:, `deskripsi` = :deskripsi:, `logo` = :logo:, `updated_at` = :updated_at:
+WHERE `organisasi_otonom`.`id_ortom` IN :organisasi_otonom.id_ortom:', [...], false)
+ 5 SYSTEMPATH\Model.php(408): CodeIgniter\Database\BaseBuilder->update()
+ 6 SYSTEMPATH\BaseModel.php(1074): CodeIgniter\Model->doUpdate([...], [...])
+ 7 SYSTEMPATH\Model.php(711): CodeIgniter\BaseModel->update([...], [...])
+ 8 APPPATH\Controllers\Admin\Ortom.php(77): CodeIgniter\Model->update('2', [...])
+ 9 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Admin\Ortom->update('2')
+10 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Ortom))
+11 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-08 10:06:33 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'updated_at' in 'field list'
+[Method: POST, Route: admin/ortom/update/2]
+in SYSTEMPATH\Database\BaseConnection.php on line 863.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2527): CodeIgniter\Database\BaseConnection->query('UPDATE `organisasi_otonom` SET `nama_ortom` = :nama_ortom:, `ketua` = :ketua:, `sekretaris` = :sekretaris:, `bendahara` = :bendahara:, `deskripsi` = :deskripsi:, `logo` = :logo:, `updated_at` = :updated_at:
+WHERE `organisasi_otonom`.`id_ortom` IN :organisasi_otonom.id_ortom:', [...], false)
+ 2 SYSTEMPATH\Model.php(408): CodeIgniter\Database\BaseBuilder->update()
+ 3 SYSTEMPATH\BaseModel.php(1074): CodeIgniter\Model->doUpdate([...], [...])
+ 4 SYSTEMPATH\Model.php(711): CodeIgniter\BaseModel->update([...], [...])
+ 5 APPPATH\Controllers\Admin\Ortom.php(77): CodeIgniter\Model->update('2', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Admin\Ortom->update('2')
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Ortom))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-08 10:06:33 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'updated_at' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 310.
+ 1 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `organisasi_otonom` SET `nama_ortom` = \'Ikatan Pelajar Muhammadiyah\', `ketua` = \'FIlda Adelia\', `sekretaris` = \'Agus Hermawan\', `bendahara` = \'Basri\', `deskripsi` = \'Berdirinya Ikatan Pelajar Muhammadiyah (IPM) tidak lepas dari latar belakang berdirinya Muhammadiyah sebagai gerakan dakwah Islam amar ma’ruf nahi munkar sekaligus sebagai konsekuensi dari banyaknya sekolah yang merupakan amal usaha Muhammadiyah untuk membina dan mendidik kader.\', `logo` = \'1785852574_5e3c6f939f4187b7279f.png\', `updated_at` = \'2026-08-08 10:06:33\'
+WHERE `organisasi_otonom`.`id_ortom` IN (\'2\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `organisasi_otonom` SET `nama_ortom` = \'Ikatan Pelajar Muhammadiyah\', `ketua` = \'FIlda Adelia\', `sekretaris` = \'Agus Hermawan\', `bendahara` = \'Basri\', `deskripsi` = \'Berdirinya Ikatan Pelajar Muhammadiyah (IPM) tidak lepas dari latar belakang berdirinya Muhammadiyah sebagai gerakan dakwah Islam amar ma’ruf nahi munkar sekaligus sebagai konsekuensi dari banyaknya sekolah yang merupakan amal usaha Muhammadiyah untuk membina dan mendidik kader.\', `logo` = \'1785852574_5e3c6f939f4187b7279f.png\', `updated_at` = \'2026-08-08 10:06:33\'
+WHERE `organisasi_otonom`.`id_ortom` IN (\'2\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2527): CodeIgniter\Database\BaseConnection->query('UPDATE `organisasi_otonom` SET `nama_ortom` = :nama_ortom:, `ketua` = :ketua:, `sekretaris` = :sekretaris:, `bendahara` = :bendahara:, `deskripsi` = :deskripsi:, `logo` = :logo:, `updated_at` = :updated_at:
+WHERE `organisasi_otonom`.`id_ortom` IN :organisasi_otonom.id_ortom:', [...], false)
+ 4 SYSTEMPATH\Model.php(408): CodeIgniter\Database\BaseBuilder->update()
+ 5 SYSTEMPATH\BaseModel.php(1074): CodeIgniter\Model->doUpdate([...], [...])
+ 6 SYSTEMPATH\Model.php(711): CodeIgniter\BaseModel->update([...], [...])
+ 7 APPPATH\Controllers\Admin\Ortom.php(77): CodeIgniter\Model->update('2', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Admin\Ortom->update('2')
+ 9 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Ortom))
+10 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-08 10:06:33 --> [Caused by] mysqli_sql_exception: Unknown column 'updated_at' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 300.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(300): mysqli->query('UPDATE `organisasi_otonom` SET `nama_ortom` = \'Ikatan Pelajar Muhammadiyah\', `ketua` = \'FIlda Adelia\', `sekretaris` = \'Agus Hermawan\', `bendahara` = \'Basri\', `deskripsi` = \'Berdirinya Ikatan Pelajar Muhammadiyah (IPM) tidak lepas dari latar belakang berdirinya Muhammadiyah sebagai gerakan dakwah Islam amar ma’ruf nahi munkar sekaligus sebagai konsekuensi dari banyaknya sekolah yang merupakan amal usaha Muhammadiyah untuk membina dan mendidik kader.\', `logo` = \'1785852574_5e3c6f939f4187b7279f.png\', `updated_at` = \'2026-08-08 10:06:33\'
+WHERE `organisasi_otonom`.`id_ortom` IN (\'2\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `organisasi_otonom` SET `nama_ortom` = \'Ikatan Pelajar Muhammadiyah\', `ketua` = \'FIlda Adelia\', `sekretaris` = \'Agus Hermawan\', `bendahara` = \'Basri\', `deskripsi` = \'Berdirinya Ikatan Pelajar Muhammadiyah (IPM) tidak lepas dari latar belakang berdirinya Muhammadiyah sebagai gerakan dakwah Islam amar ma’ruf nahi munkar sekaligus sebagai konsekuensi dari banyaknya sekolah yang merupakan amal usaha Muhammadiyah untuk membina dan mendidik kader.\', `logo` = \'1785852574_5e3c6f939f4187b7279f.png\', `updated_at` = \'2026-08-08 10:06:33\'
+WHERE `organisasi_otonom`.`id_ortom` IN (\'2\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `organisasi_otonom` SET `nama_ortom` = \'Ikatan Pelajar Muhammadiyah\', `ketua` = \'FIlda Adelia\', `sekretaris` = \'Agus Hermawan\', `bendahara` = \'Basri\', `deskripsi` = \'Berdirinya Ikatan Pelajar Muhammadiyah (IPM) tidak lepas dari latar belakang berdirinya Muhammadiyah sebagai gerakan dakwah Islam amar ma’ruf nahi munkar sekaligus sebagai konsekuensi dari banyaknya sekolah yang merupakan amal usaha Muhammadiyah untuk membina dan mendidik kader.\', `logo` = \'1785852574_5e3c6f939f4187b7279f.png\', `updated_at` = \'2026-08-08 10:06:33\'
+WHERE `organisasi_otonom`.`id_ortom` IN (\'2\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2527): CodeIgniter\Database\BaseConnection->query('UPDATE `organisasi_otonom` SET `nama_ortom` = :nama_ortom:, `ketua` = :ketua:, `sekretaris` = :sekretaris:, `bendahara` = :bendahara:, `deskripsi` = :deskripsi:, `logo` = :logo:, `updated_at` = :updated_at:
+WHERE `organisasi_otonom`.`id_ortom` IN :organisasi_otonom.id_ortom:', [...], false)
+ 5 SYSTEMPATH\Model.php(408): CodeIgniter\Database\BaseBuilder->update()
+ 6 SYSTEMPATH\BaseModel.php(1074): CodeIgniter\Model->doUpdate([...], [...])
+ 7 SYSTEMPATH\Model.php(711): CodeIgniter\BaseModel->update([...], [...])
+ 8 APPPATH\Controllers\Admin\Ortom.php(77): CodeIgniter\Model->update('2', [...])
+ 9 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Admin\Ortom->update('2')
+10 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Ortom))
+11 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-08-08 10:06:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-08-08 10:06:45 --> Unknown column 'updated_at' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 300.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(300): mysqli->query('UPDATE `organisasi_otonom` SET `nama_ortom` = \'Ikatan Pelajar Muhammadiyah\', `ketua` = \'FIlda Adelia\', `sekretaris` = \'Agus Hermawan\', `bendahara` = \'Basri\', `deskripsi` = \'Berdirinya Ikatan Pelajar Muhammadiyah (IPM) tidak lepas dari latar belakang berdirinya Muhammadiyah sebagai gerakan dakwah Islam amar ma’ruf nahi munkar sekaligus sebagai konsekuensi dari banyaknya sekolah yang merupakan amal usaha Muhammadiyah untuk membina dan mendidik kader.\', `logo` = \'1785852574_5e3c6f939f4187b7279f.png\', `updated_at` = \'2026-08-08 10:06:45\'
+WHERE `organisasi_otonom`.`id_ortom` IN (\'2\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `organisasi_otonom` SET `nama_ortom` = \'Ikatan Pelajar Muhammadiyah\', `ketua` = \'FIlda Adelia\', `sekretaris` = \'Agus Hermawan\', `bendahara` = \'Basri\', `deskripsi` = \'Berdirinya Ikatan Pelajar Muhammadiyah (IPM) tidak lepas dari latar belakang berdirinya Muhammadiyah sebagai gerakan dakwah Islam amar ma’ruf nahi munkar sekaligus sebagai konsekuensi dari banyaknya sekolah yang merupakan amal usaha Muhammadiyah untuk membina dan mendidik kader.\', `logo` = \'1785852574_5e3c6f939f4187b7279f.png\', `updated_at` = \'2026-08-08 10:06:45\'
+WHERE `organisasi_otonom`.`id_ortom` IN (\'2\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `organisasi_otonom` SET `nama_ortom` = \'Ikatan Pelajar Muhammadiyah\', `ketua` = \'FIlda Adelia\', `sekretaris` = \'Agus Hermawan\', `bendahara` = \'Basri\', `deskripsi` = \'Berdirinya Ikatan Pelajar Muhammadiyah (IPM) tidak lepas dari latar belakang berdirinya Muhammadiyah sebagai gerakan dakwah Islam amar ma’ruf nahi munkar sekaligus sebagai konsekuensi dari banyaknya sekolah yang merupakan amal usaha Muhammadiyah untuk membina dan mendidik kader.\', `logo` = \'1785852574_5e3c6f939f4187b7279f.png\', `updated_at` = \'2026-08-08 10:06:45\'
+WHERE `organisasi_otonom`.`id_ortom` IN (\'2\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2527): CodeIgniter\Database\BaseConnection->query('UPDATE `organisasi_otonom` SET `nama_ortom` = :nama_ortom:, `ketua` = :ketua:, `sekretaris` = :sekretaris:, `bendahara` = :bendahara:, `deskripsi` = :deskripsi:, `logo` = :logo:, `updated_at` = :updated_at:
+WHERE `organisasi_otonom`.`id_ortom` IN :organisasi_otonom.id_ortom:', [...], false)
+ 5 SYSTEMPATH\Model.php(408): CodeIgniter\Database\BaseBuilder->update()
+ 6 SYSTEMPATH\BaseModel.php(1074): CodeIgniter\Model->doUpdate([...], [...])
+ 7 SYSTEMPATH\Model.php(711): CodeIgniter\BaseModel->update([...], [...])
+ 8 APPPATH\Controllers\Admin\Ortom.php(77): CodeIgniter\Model->update('2', [...])
+ 9 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Admin\Ortom->update('2')
+10 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Ortom))
+11 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-08 10:06:45 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'updated_at' in 'field list'
+[Method: POST, Route: admin/ortom/update/2]
+in SYSTEMPATH\Database\BaseConnection.php on line 863.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2527): CodeIgniter\Database\BaseConnection->query('UPDATE `organisasi_otonom` SET `nama_ortom` = :nama_ortom:, `ketua` = :ketua:, `sekretaris` = :sekretaris:, `bendahara` = :bendahara:, `deskripsi` = :deskripsi:, `logo` = :logo:, `updated_at` = :updated_at:
+WHERE `organisasi_otonom`.`id_ortom` IN :organisasi_otonom.id_ortom:', [...], false)
+ 2 SYSTEMPATH\Model.php(408): CodeIgniter\Database\BaseBuilder->update()
+ 3 SYSTEMPATH\BaseModel.php(1074): CodeIgniter\Model->doUpdate([...], [...])
+ 4 SYSTEMPATH\Model.php(711): CodeIgniter\BaseModel->update([...], [...])
+ 5 APPPATH\Controllers\Admin\Ortom.php(77): CodeIgniter\Model->update('2', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Admin\Ortom->update('2')
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Ortom))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-08 10:06:45 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'updated_at' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 310.
+ 1 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `organisasi_otonom` SET `nama_ortom` = \'Ikatan Pelajar Muhammadiyah\', `ketua` = \'FIlda Adelia\', `sekretaris` = \'Agus Hermawan\', `bendahara` = \'Basri\', `deskripsi` = \'Berdirinya Ikatan Pelajar Muhammadiyah (IPM) tidak lepas dari latar belakang berdirinya Muhammadiyah sebagai gerakan dakwah Islam amar ma’ruf nahi munkar sekaligus sebagai konsekuensi dari banyaknya sekolah yang merupakan amal usaha Muhammadiyah untuk membina dan mendidik kader.\', `logo` = \'1785852574_5e3c6f939f4187b7279f.png\', `updated_at` = \'2026-08-08 10:06:45\'
+WHERE `organisasi_otonom`.`id_ortom` IN (\'2\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `organisasi_otonom` SET `nama_ortom` = \'Ikatan Pelajar Muhammadiyah\', `ketua` = \'FIlda Adelia\', `sekretaris` = \'Agus Hermawan\', `bendahara` = \'Basri\', `deskripsi` = \'Berdirinya Ikatan Pelajar Muhammadiyah (IPM) tidak lepas dari latar belakang berdirinya Muhammadiyah sebagai gerakan dakwah Islam amar ma’ruf nahi munkar sekaligus sebagai konsekuensi dari banyaknya sekolah yang merupakan amal usaha Muhammadiyah untuk membina dan mendidik kader.\', `logo` = \'1785852574_5e3c6f939f4187b7279f.png\', `updated_at` = \'2026-08-08 10:06:45\'
+WHERE `organisasi_otonom`.`id_ortom` IN (\'2\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2527): CodeIgniter\Database\BaseConnection->query('UPDATE `organisasi_otonom` SET `nama_ortom` = :nama_ortom:, `ketua` = :ketua:, `sekretaris` = :sekretaris:, `bendahara` = :bendahara:, `deskripsi` = :deskripsi:, `logo` = :logo:, `updated_at` = :updated_at:
+WHERE `organisasi_otonom`.`id_ortom` IN :organisasi_otonom.id_ortom:', [...], false)
+ 4 SYSTEMPATH\Model.php(408): CodeIgniter\Database\BaseBuilder->update()
+ 5 SYSTEMPATH\BaseModel.php(1074): CodeIgniter\Model->doUpdate([...], [...])
+ 6 SYSTEMPATH\Model.php(711): CodeIgniter\BaseModel->update([...], [...])
+ 7 APPPATH\Controllers\Admin\Ortom.php(77): CodeIgniter\Model->update('2', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Admin\Ortom->update('2')
+ 9 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Ortom))
+10 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-08 10:06:45 --> [Caused by] mysqli_sql_exception: Unknown column 'updated_at' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 300.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(300): mysqli->query('UPDATE `organisasi_otonom` SET `nama_ortom` = \'Ikatan Pelajar Muhammadiyah\', `ketua` = \'FIlda Adelia\', `sekretaris` = \'Agus Hermawan\', `bendahara` = \'Basri\', `deskripsi` = \'Berdirinya Ikatan Pelajar Muhammadiyah (IPM) tidak lepas dari latar belakang berdirinya Muhammadiyah sebagai gerakan dakwah Islam amar ma’ruf nahi munkar sekaligus sebagai konsekuensi dari banyaknya sekolah yang merupakan amal usaha Muhammadiyah untuk membina dan mendidik kader.\', `logo` = \'1785852574_5e3c6f939f4187b7279f.png\', `updated_at` = \'2026-08-08 10:06:45\'
+WHERE `organisasi_otonom`.`id_ortom` IN (\'2\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `organisasi_otonom` SET `nama_ortom` = \'Ikatan Pelajar Muhammadiyah\', `ketua` = \'FIlda Adelia\', `sekretaris` = \'Agus Hermawan\', `bendahara` = \'Basri\', `deskripsi` = \'Berdirinya Ikatan Pelajar Muhammadiyah (IPM) tidak lepas dari latar belakang berdirinya Muhammadiyah sebagai gerakan dakwah Islam amar ma’ruf nahi munkar sekaligus sebagai konsekuensi dari banyaknya sekolah yang merupakan amal usaha Muhammadiyah untuk membina dan mendidik kader.\', `logo` = \'1785852574_5e3c6f939f4187b7279f.png\', `updated_at` = \'2026-08-08 10:06:45\'
+WHERE `organisasi_otonom`.`id_ortom` IN (\'2\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `organisasi_otonom` SET `nama_ortom` = \'Ikatan Pelajar Muhammadiyah\', `ketua` = \'FIlda Adelia\', `sekretaris` = \'Agus Hermawan\', `bendahara` = \'Basri\', `deskripsi` = \'Berdirinya Ikatan Pelajar Muhammadiyah (IPM) tidak lepas dari latar belakang berdirinya Muhammadiyah sebagai gerakan dakwah Islam amar ma’ruf nahi munkar sekaligus sebagai konsekuensi dari banyaknya sekolah yang merupakan amal usaha Muhammadiyah untuk membina dan mendidik kader.\', `logo` = \'1785852574_5e3c6f939f4187b7279f.png\', `updated_at` = \'2026-08-08 10:06:45\'
+WHERE `organisasi_otonom`.`id_ortom` IN (\'2\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2527): CodeIgniter\Database\BaseConnection->query('UPDATE `organisasi_otonom` SET `nama_ortom` = :nama_ortom:, `ketua` = :ketua:, `sekretaris` = :sekretaris:, `bendahara` = :bendahara:, `deskripsi` = :deskripsi:, `logo` = :logo:, `updated_at` = :updated_at:
+WHERE `organisasi_otonom`.`id_ortom` IN :organisasi_otonom.id_ortom:', [...], false)
+ 5 SYSTEMPATH\Model.php(408): CodeIgniter\Database\BaseBuilder->update()
+ 6 SYSTEMPATH\BaseModel.php(1074): CodeIgniter\Model->doUpdate([...], [...])
+ 7 SYSTEMPATH\Model.php(711): CodeIgniter\BaseModel->update([...], [...])
+ 8 APPPATH\Controllers\Admin\Ortom.php(77): CodeIgniter\Model->update('2', [...])
+ 9 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Admin\Ortom->update('2')
+10 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Ortom))
+11 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-08-08 10:09:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 10:09:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2026-08-08 10:09:56 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "pages/profil/ortom.php"
+[Method: GET, Route: ortom]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/profil/ortom.php')
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('pages/profil/ortom', [], true)
+ 3 APPPATH\Controllers\Home.php(373): view('pages/profil/ortom', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->ortom()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-08-08 10:11:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 10:11:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 10:12:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 10:29:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 10:31:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 10:31:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2026-08-08 10:31:58 --> ErrorException: unlink(C:\wamp64\www\pw-muhammadiyah\writable\debugbar/debugbar_1786183149.470420.json): No such file or directory
+[Method: GET, Route: /]
+in SYSTEMPATH\Debug\Toolbar\Collectors\History.php on line 82.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(C:\\wamp64\\www\\pw-muhammadiyah\\writable\\debugbar/debugbar_1786183149.470420.json): No such file or directory', 'C:\\wamp64\\www\\pw-muhammadiyah\\system\\Debug\\Toolbar\\Collectors\\History.php', 82)
+ 2 SYSTEMPATH\Debug\Toolbar\Collectors\History.php(82): unlink('C:\\wamp64\\www\\pw-muhammadiyah\\writable\\debugbar/debugbar_1786183149.470420.json')
+ 3 SYSTEMPATH\Debug\Toolbar.php(515): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles('1786185117.606219', 20)
+ 4 SYSTEMPATH\Debug\Toolbar.php(494): CodeIgniter\Debug\Toolbar->format([...], 'html')
+ 5 APPPATH\Config\Events.php(49): CodeIgniter\Debug\Toolbar->respond()
+ 6 SYSTEMPATH\Events\Events.php(152): CodeIgniter\Events\Events::Config\{closure}()
+ 7 SYSTEMPATH\CodeIgniter.php(348): CodeIgniter\Events\Events::trigger('pre_system')
+ 8 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-08-08 10:33:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 10:34:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 10:36:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 10:37:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 10:37:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 10:38:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 10:38:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 10:39:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 10:39:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 10:39:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 10:44:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 10:44:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 10:45:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 10:46:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 10:47:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2026-08-08 10:47:02 --> ErrorException: unlink(C:\wamp64\www\pw-muhammadiyah\writable\debugbar/debugbar_1786185240.610003.json): No such file or directory
+[Method: GET, Route: /]
+in SYSTEMPATH\Debug\Toolbar\Collectors\History.php on line 82.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(C:\\wamp64\\www\\pw-muhammadiyah\\writable\\debugbar/debugbar_1786185240.610003.json): No such file or directory', 'C:\\wamp64\\www\\pw-muhammadiyah\\system\\Debug\\Toolbar\\Collectors\\History.php', 82)
+ 2 SYSTEMPATH\Debug\Toolbar\Collectors\History.php(82): unlink('C:\\wamp64\\www\\pw-muhammadiyah\\writable\\debugbar/debugbar_1786185240.610003.json')
+ 3 SYSTEMPATH\Debug\Toolbar.php(515): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles('1786186021.210147', 20)
+ 4 SYSTEMPATH\Debug\Toolbar.php(494): CodeIgniter\Debug\Toolbar->format([...], 'html')
+ 5 APPPATH\Config\Events.php(49): CodeIgniter\Debug\Toolbar->respond()
+ 6 SYSTEMPATH\Events\Events.php(152): CodeIgniter\Events\Events::Config\{closure}()
+ 7 SYSTEMPATH\CodeIgniter.php(348): CodeIgniter\Events\Events::trigger('pre_system')
+ 8 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-08-08 11:14:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2026-08-08 11:17:59 --> ParseError: Unclosed '{' on line 71
+[Method: GET, Route: majelis]
+in APPPATH\Config\Routes.php on line 268.
+ 1 SYSTEMPATH\CodeIgniter.php(841): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 2 SYSTEMPATH\CodeIgniter.php(464): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 3 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-08 11:18:02 --> ParseError: Unclosed '{' on line 71
+[Method: GET, Route: admin/pdm]
+in APPPATH\Config\Routes.php on line 268.
+ 1 SYSTEMPATH\CodeIgniter.php(841): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 2 SYSTEMPATH\CodeIgniter.php(464): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 3 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-08-08 11:22:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 11:22:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 11:24:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 11:25:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 11:28:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 11:28:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 11:29:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 11:29:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 11:32:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 11:33:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 11:35:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 11:36:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 11:36:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 11:38:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 11:38:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 11:39:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-08-08 11:39:47 --> Table 'db_pwmuhammadiyah.pdm_pengurus' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 300.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(300): mysqli->query('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = \'2\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = \'2\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = \'2\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1655): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = :id_pdm:', [...], false)
+ 5 APPPATH\Controllers\Home.php(585): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->detailPdm('2')
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-08 11:39:47 --> CodeIgniter\Database\Exceptions\DatabaseException: Table 'db_pwmuhammadiyah.pdm_pengurus' doesn't exist
+[Method: GET, Route: pdm/detail/2]
+in SYSTEMPATH\Database\BaseConnection.php on line 863.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1655): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = :id_pdm:', [...], false)
+ 2 APPPATH\Controllers\Home.php(585): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->detailPdm('2')
+ 4 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-08 11:39:47 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Table 'db_pwmuhammadiyah.pdm_pengurus' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 310.
+ 1 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = \'2\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = \'2\'')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1655): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = :id_pdm:', [...], false)
+ 4 APPPATH\Controllers\Home.php(585): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->detailPdm('2')
+ 6 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-08 11:39:47 --> [Caused by] mysqli_sql_exception: Table 'db_pwmuhammadiyah.pdm_pengurus' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 300.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(300): mysqli->query('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = \'2\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = \'2\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = \'2\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1655): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = :id_pdm:', [...], false)
+ 5 APPPATH\Controllers\Home.php(585): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->detailPdm('2')
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2026-08-08 11:40:03 --> Table 'db_pwmuhammadiyah.pdm_pengurus' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 300.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(300): mysqli->query('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = \'2\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = \'2\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = \'2\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1655): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = :id_pdm:', [...], false)
+ 5 APPPATH\Controllers\Home.php(585): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->detailPdm('2')
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-08 11:40:03 --> CodeIgniter\Database\Exceptions\DatabaseException: Table 'db_pwmuhammadiyah.pdm_pengurus' doesn't exist
+[Method: GET, Route: pdm/detail/2]
+in SYSTEMPATH\Database\BaseConnection.php on line 863.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1655): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = :id_pdm:', [...], false)
+ 2 APPPATH\Controllers\Home.php(585): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->detailPdm('2')
+ 4 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-08 11:40:03 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Table 'db_pwmuhammadiyah.pdm_pengurus' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 310.
+ 1 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = \'2\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = \'2\'')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1655): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = :id_pdm:', [...], false)
+ 4 APPPATH\Controllers\Home.php(585): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->detailPdm('2')
+ 6 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-08 11:40:03 --> [Caused by] mysqli_sql_exception: Table 'db_pwmuhammadiyah.pdm_pengurus' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 300.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(300): mysqli->query('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = \'2\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = \'2\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = \'2\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1655): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = :id_pdm:', [...], false)
+ 5 APPPATH\Controllers\Home.php(585): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->detailPdm('2')
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2026-08-08 11:40:55 --> Table 'db_pwmuhammadiyah.pdm_pengurus' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 300.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(300): mysqli->query('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = \'2\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = \'2\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = \'2\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1655): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = :id_pdm:', [...], false)
+ 5 APPPATH\Controllers\Home.php(585): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->detailPdm('2')
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-08 11:40:55 --> CodeIgniter\Database\Exceptions\DatabaseException: Table 'db_pwmuhammadiyah.pdm_pengurus' doesn't exist
+[Method: GET, Route: pdm/detail/2]
+in SYSTEMPATH\Database\BaseConnection.php on line 863.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1655): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = :id_pdm:', [...], false)
+ 2 APPPATH\Controllers\Home.php(585): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->detailPdm('2')
+ 4 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-08 11:40:55 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Table 'db_pwmuhammadiyah.pdm_pengurus' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 310.
+ 1 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = \'2\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = \'2\'')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1655): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = :id_pdm:', [...], false)
+ 4 APPPATH\Controllers\Home.php(585): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->detailPdm('2')
+ 6 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-08 11:40:55 --> [Caused by] mysqli_sql_exception: Table 'db_pwmuhammadiyah.pdm_pengurus' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 300.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(300): mysqli->query('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = \'2\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = \'2\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = \'2\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1655): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = :id_pdm:', [...], false)
+ 5 APPPATH\Controllers\Home.php(585): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->detailPdm('2')
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2026-08-08 11:43:24 --> Table 'db_pwmuhammadiyah.pdm_pengurus' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 300.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(300): mysqli->query('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = \'2\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = \'2\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = \'2\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1655): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = :id_pdm:', [...], false)
+ 5 APPPATH\Controllers\Home.php(585): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->detailPdm('2')
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-08 11:43:24 --> CodeIgniter\Database\Exceptions\DatabaseException: Table 'db_pwmuhammadiyah.pdm_pengurus' doesn't exist
+[Method: GET, Route: pdm/detail/2]
+in SYSTEMPATH\Database\BaseConnection.php on line 863.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1655): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = :id_pdm:', [...], false)
+ 2 APPPATH\Controllers\Home.php(585): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->detailPdm('2')
+ 4 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-08 11:43:24 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Table 'db_pwmuhammadiyah.pdm_pengurus' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 310.
+ 1 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = \'2\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = \'2\'')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1655): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = :id_pdm:', [...], false)
+ 4 APPPATH\Controllers\Home.php(585): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->detailPdm('2')
+ 6 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-08 11:43:24 --> [Caused by] mysqli_sql_exception: Table 'db_pwmuhammadiyah.pdm_pengurus' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 300.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(300): mysqli->query('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = \'2\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = \'2\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = \'2\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1655): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = :id_pdm:', [...], false)
+ 5 APPPATH\Controllers\Home.php(585): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->detailPdm('2')
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-08-08 11:44:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 11:44:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 11:44:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 11:44:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 11:45:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2026-08-08 11:46:03 --> Table 'db_pwmuhammadiyah.pdm_pengurus' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 300.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(300): mysqli->query('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = \'2\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = \'2\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = \'2\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1655): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = :id_pdm:', [...], false)
+ 5 APPPATH\Controllers\Home.php(585): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->detailPdm('2')
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-08 11:46:03 --> CodeIgniter\Database\Exceptions\DatabaseException: Table 'db_pwmuhammadiyah.pdm_pengurus' doesn't exist
+[Method: GET, Route: pdm/detail/2]
+in SYSTEMPATH\Database\BaseConnection.php on line 863.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1655): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = :id_pdm:', [...], false)
+ 2 APPPATH\Controllers\Home.php(585): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->detailPdm('2')
+ 4 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-08 11:46:03 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Table 'db_pwmuhammadiyah.pdm_pengurus' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 310.
+ 1 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = \'2\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = \'2\'')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1655): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = :id_pdm:', [...], false)
+ 4 APPPATH\Controllers\Home.php(585): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->detailPdm('2')
+ 6 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-08 11:46:03 --> [Caused by] mysqli_sql_exception: Table 'db_pwmuhammadiyah.pdm_pengurus' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 300.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(300): mysqli->query('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = \'2\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = \'2\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = \'2\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1655): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = :id_pdm:', [...], false)
+ 5 APPPATH\Controllers\Home.php(585): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->detailPdm('2')
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2026-08-08 11:51:11 --> Table 'db_pwmuhammadiyah.pdm_pengurus' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 300.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(300): mysqli->query('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = \'2\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = \'2\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = \'2\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1655): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = :id_pdm:', [...], false)
+ 5 APPPATH\Controllers\Home.php(585): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->detailPdm('2')
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-08 11:51:11 --> CodeIgniter\Database\Exceptions\DatabaseException: Table 'db_pwmuhammadiyah.pdm_pengurus' doesn't exist
+[Method: GET, Route: pdm/detail/2]
+in SYSTEMPATH\Database\BaseConnection.php on line 863.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1655): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = :id_pdm:', [...], false)
+ 2 APPPATH\Controllers\Home.php(585): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->detailPdm('2')
+ 4 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-08 11:51:11 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Table 'db_pwmuhammadiyah.pdm_pengurus' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 310.
+ 1 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = \'2\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = \'2\'')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1655): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = :id_pdm:', [...], false)
+ 4 APPPATH\Controllers\Home.php(585): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->detailPdm('2')
+ 6 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-08-08 11:51:11 --> [Caused by] mysqli_sql_exception: Table 'db_pwmuhammadiyah.pdm_pengurus' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 300.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(300): mysqli->query('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = \'2\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(908): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = \'2\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(825): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = \'2\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1655): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `pdm_pengurus`
+WHERE `id_pdm` = :id_pdm:', [...], false)
+ 5 APPPATH\Controllers\Home.php(585): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->detailPdm('2')
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-08-08 11:51:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 11:53:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 11:54:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 11:54:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 11:56:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2026-08-08 11:58:20 --> ErrorException: Undefined array key "nama_pengurus"
+[Method: GET, Route: pdm/detail/7]
+in APPPATH\Views\pages\detail_pdm.php on line 56.
+ 1 APPPATH\Views\pages\detail_pdm.php(56): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama_pengurus"', 'C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\detail_pdm.php', 56)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\detail_pdm.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('pages/detail_pdm', [], true)
+ 5 APPPATH\Controllers\Home.php(597): view('pages/detail_pdm', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->detailPdm('7')
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-08-08 11:58:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2026-08-08 11:58:47 --> ErrorException: Undefined array key "nama_pengurus"
+[Method: GET, Route: pdm/detail/7]
+in APPPATH\Views\pages\detail_pdm.php on line 56.
+ 1 APPPATH\Views\pages\detail_pdm.php(56): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama_pengurus"', 'C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\detail_pdm.php', 56)
+ 2 SYSTEMPATH\View\View.php(240): include('C:\\wamp64\\www\\pw-muhammadiyah\\app\\Views\\pages\\detail_pdm.php')
+ 3 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('pages/detail_pdm', [], true)
+ 5 APPPATH\Controllers\Home.php(623): view('pages/detail_pdm', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->detailPdm('7')
+ 7 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-08-08 12:02:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 12:02:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 12:13:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 12:15:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 12:15:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 12:47:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2026-08-08 12:47:07 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "layout/template.php"
+[Method: GET, Route: admin/opini]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/template.php')
+ 2 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('layout/template', [], true)
+ 3 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('admin/opini/index', [], true)
+ 4 APPPATH\Controllers\Admin\Opini.php(24): view('admin/opini/index', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Admin\Opini->index()
+ 6 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Opini))
+ 7 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-08-08 12:48:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 12:48:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 12:49:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 12:49:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2026-08-08 12:49:45 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "layout/template.php"
+[Method: GET, Route: admin/opini/tambah]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/template.php')
+ 2 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('layout/template', [], true)
+ 3 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('admin/opini/tambah', [], true)
+ 4 APPPATH\Controllers\Admin\Opini.php(34): view('admin/opini/tambah', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Admin\Opini->tambah()
+ 6 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Opini))
+ 7 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-08-08 12:49:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2026-08-08 12:49:49 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "layout/template.php"
+[Method: GET, Route: admin/opini/tambah]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/template.php')
+ 2 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('layout/template', [], true)
+ 3 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('admin/opini/tambah', [], true)
+ 4 APPPATH\Controllers\Admin\Opini.php(34): view('admin/opini/tambah', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Admin\Opini->tambah()
+ 6 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Opini))
+ 7 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-08-08 12:50:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 12:50:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 12:50:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 12:52:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 12:52:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 12:52:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 12:52:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 12:52:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 12:52:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 12:52:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 12:52:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 12:52:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 12:52:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 12:52:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 12:52:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 12:53:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 12:53:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 12:53:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 12:53:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 12:56:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 12:57:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 13:00:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2026-08-08 13:00:29 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "layout/public.php"
+[Method: GET, Route: opini]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/public.php')
+ 2 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('layout/public', [], true)
+ 3 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('pages/opini', [], true)
+ 4 APPPATH\Controllers\Home.php(172): view('pages/opini', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->opini()
+ 6 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-08-08 13:01:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2026-08-08 13:02:16 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "layout/public.php"
+[Method: GET, Route: opini/dadadd]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout/public.php')
+ 2 SYSTEMPATH\View\View.php(256): CodeIgniter\View\View->render('layout/public', [], true)
+ 3 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('pages/detail_opini', [], true)
+ 4 APPPATH\Controllers\Home.php(212): view('pages/detail_opini', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Home->detailOpini('dadadd')
+ 6 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-08-08 13:02:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 13:05:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 13:09:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-08-08 13:10:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
